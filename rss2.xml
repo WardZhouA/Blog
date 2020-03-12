@@ -14,9 +14,31 @@
     
     <atom:link href="/rss2.xml" rel="self" type="application/rss+xml"/>
     
-    <description>这是Ward用来分享的博客~</description>
-    <pubDate>Sat, 29 Feb 2020 07:46:54 GMT</pubDate>
+    <description>白桦树下的人de博客</description>
+    <pubDate>Wed, 11 Mar 2020 16:36:11 GMT</pubDate>
     <generator>http://hexo.io/</generator>
+    
+    <item>
+      <title>Promises第十六章</title>
+      <link>http://wardzhou.art/2020/02/29/PromisesChapter16/</link>
+      <guid>http://wardzhou.art/2020/02/29/PromisesChapter16/</guid>
+      <pubDate>Sat, 29 Feb 2020 08:07:57 GMT</pubDate>
+      <description>
+      
+        
+        
+          
+          
+            &lt;h1 id=&quot;promises&quot;&gt;Promises&lt;a href=&quot;#promises&quot; title=&quot;Promises&quot;&gt;&lt;/a&gt;&lt;/h1&gt;&lt;p&gt;&lt;em&gt;Marie Sexton&lt;/em&gt;&lt;/p&gt;
+&lt;h2 id=&quot;第十六章&quot;&gt;第十六章&lt;a href=&quot;#第十六章&quot;
+          
+        
+      
+      </description>
+      
+      
+      <comments>http://wardzhou.art/2020/02/29/PromisesChapter16/#disqus_thread</comments>
+    </item>
     
     <item>
       <title>CentOS下使用Nginx+Git部署hexo</title>
@@ -419,28 +441,6 @@
       
       
       <comments>http://wardzhou.art/2020/01/13/%E5%8D%A1%E6%A2%85%E5%B0%94%E7%9A%84%E6%95%85%E4%BA%8B/#disqus_thread</comments>
-    </item>
-    
-    <item>
-      <title>Promises第二章</title>
-      <link>http://wardzhou.art/2020/01/09/PromisesChapter2/</link>
-      <guid>http://wardzhou.art/2020/01/09/PromisesChapter2/</guid>
-      <pubDate>Thu, 09 Jan 2020 15:00:22 GMT</pubDate>
-      <description>
-      
-        
-        
-          
-          
-            &lt;h1 id=&quot;promises&quot;&gt;Promises&lt;a href=&quot;#promises&quot; title=&quot;Promises&quot;&gt;&lt;/a&gt;&lt;/h1&gt;&lt;p&gt;&lt;em&gt;Marie Sexton&lt;/em&gt;&lt;/p&gt;
-&lt;h2 id=&quot;第二章&quot;&gt;第二章&lt;a href=&quot;#第二章&quot;
-          
-        
-      
-      </description>
-      
-      
-      <comments>http://wardzhou.art/2020/01/09/PromisesChapter2/#disqus_thread</comments>
     </item>
     
   </channel>
