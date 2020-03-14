@@ -2,7 +2,7 @@ importScripts('https://g.alicdn.com/kg/workbox/3.3.0/workbox-sw.js');
 self.addEventListener('install', function (event) {
   event.waitUntil(
     caches.keys().then(function (names) {
-      var validSets = ["is-sw-cbc56d","is-html-cbc56d","is-jsdelivr-cbc56d","is-gtm-cbc56d","is-gravatar-cbc56d","is-theme-cbc56d","is-cdn-cbc56d","is-json-cbc56d"];
+      var validSets = ["is-sw-712ea2","is-html-712ea2","is-jsdelivr-712ea2","is-gtm-712ea2","is-gravatar-712ea2","is-theme-712ea2","is-cdn-712ea2","is-json-712ea2"];
       return Promise.all(
         names
           .filter(function (name) { return !~validSets.indexOf(name); })
@@ -16,30 +16,30 @@ self.addEventListener('install', function (event) {
 });
 
 workbox.routing.registerRoute(new RegExp('sw\\.js'), workbox.strategies.networkOnly({
-  cacheName: 'is-sw-cbc56d',
+  cacheName: 'is-sw-712ea2',
 }));
 workbox.routing.registerRoute(new RegExp('https://cdn\\.jsdelivr\\.net'), workbox.strategies.staleWhileRevalidate({
-  cacheName: 'is-jsdelivr-cbc56d',
+  cacheName: 'is-jsdelivr-712ea2',
   plugins: [ new workbox.expiration.Plugin({ maxAgeSeconds: 14400 }) ],
 }));
 workbox.routing.registerRoute(new RegExp('https://www\\.googletagmanager\\.com\?id=.*'), workbox.strategies.staleWhileRevalidate({
-  cacheName: 'is-gtm-cbc56d',
+  cacheName: 'is-gtm-712ea2',
   plugins: [ new workbox.expiration.Plugin({ maxAgeSeconds: 14400 }) ],
 }));
 workbox.routing.registerRoute(new RegExp('https://www\\.gravatar\\.com'), workbox.strategies.staleWhileRevalidate({
-  cacheName: 'is-gravatar-cbc56d',
+  cacheName: 'is-gravatar-712ea2',
   plugins: [ new workbox.expiration.Plugin({ maxAgeSeconds: 14400 }) ],
 }));
 workbox.routing.registerRoute(new RegExp('/.*\\.(?:js|css|woff2|png|jpg|gif)$'), workbox.strategies.staleWhileRevalidate({
-  cacheName: 'is-theme-cbc56d',
+  cacheName: 'is-theme-712ea2',
   plugins: [ new workbox.expiration.Plugin({ maxAgeSeconds: 14400 }) ],
 }));
 workbox.routing.registerRoute(new RegExp('https://cdn\\.yourdomain\\.com'), workbox.strategies.staleWhileRevalidate({
-  cacheName: 'is-cdn-cbc56d',
+  cacheName: 'is-cdn-712ea2',
   plugins: [ new workbox.expiration.Plugin({ maxAgeSeconds: 14400 }) ],
 }));
 workbox.routing.registerRoute(new RegExp('your_data_prefix/.*\\.json'), workbox.strategies.cacheFirst({
-  cacheName: 'is-json-cbc56d',
+  cacheName: 'is-json-712ea2',
   plugins: [ new workbox.expiration.Plugin({ maxAgeSeconds: 14400 }) ],
 }));
 

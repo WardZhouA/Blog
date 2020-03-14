@@ -15,8 +15,30 @@
     <atom:link href="/rss2.xml" rel="self" type="application/rss+xml"/>
     
     <description>白桦树下的人de博客</description>
-    <pubDate>Fri, 13 Mar 2020 19:18:53 GMT</pubDate>
+    <pubDate>Sat, 14 Mar 2020 13:59:35 GMT</pubDate>
     <generator>http://hexo.io/</generator>
+    
+    <item>
+      <title>Nginx站点配置SSL</title>
+      <link>http://wardzhou.art/2020/03/14/nginxSSL/</link>
+      <guid>http://wardzhou.art/2020/03/14/nginxSSL/</guid>
+      <pubDate>Sat, 14 Mar 2020 13:05:08 GMT</pubDate>
+      <description>
+      
+        
+        
+          
+          
+            &lt;p&gt;本文接上一篇&lt;a href=&quot;2020/02/29/nginxServer&quot;&gt;CentOS下使用Nginx+Git部署hexo&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&quot;服务器端&quot;&gt;服务器端&lt;a href=&quot;#服务器端&quot;
+          
+        
+      
+      </description>
+      
+      
+      <comments>http://wardzhou.art/2020/03/14/nginxSSL/#disqus_thread</comments>
+    </item>
     
     <item>
       <title>Promises第十六章</title>
@@ -419,28 +441,6 @@
       
       
       <comments>http://wardzhou.art/2020/01/17/PromisesChapter3/#disqus_thread</comments>
-    </item>
-    
-    <item>
-      <title>卡梅尔的故事</title>
-      <link>http://wardzhou.art/2020/01/13/%E5%8D%A1%E6%A2%85%E5%B0%94%E7%9A%84%E6%95%85%E4%BA%8B/</link>
-      <guid>http://wardzhou.art/2020/01/13/%E5%8D%A1%E6%A2%85%E5%B0%94%E7%9A%84%E6%95%85%E4%BA%8B/</guid>
-      <pubDate>Mon, 13 Jan 2020 14:41:00 GMT</pubDate>
-      <description>
-      
-        
-        
-          
-          
-            &lt;p&gt;人群中的你&lt;br&gt;目不转睛的我&lt;br&gt;预支多年的光景&lt;br&gt;堵上未名的期盼&lt;br&gt;终于握住了你  &lt;/p&gt;
-&lt;p&gt;那是条坎坷曲折&lt;br&gt;但充满神秘而绮丽的小路&lt;br&gt;你向我轻语：&lt;br&gt;——握紧&lt;br&gt;我知道我依靠的是什么 
-          
-        
-      
-      </description>
-      
-      
-      <comments>http://wardzhou.art/2020/01/13/%E5%8D%A1%E6%A2%85%E5%B0%94%E7%9A%84%E6%95%85%E4%BA%8B/#disqus_thread</comments>
     </item>
     
   </channel>
