@@ -15,8 +15,29 @@
     <atom:link href="/rss2.xml" rel="self" type="application/rss+xml"/>
     
     <description>白桦树下的人de博客</description>
-    <pubDate>Sat, 14 Mar 2020 13:59:35 GMT</pubDate>
+    <pubDate>Sat, 14 Mar 2020 14:51:11 GMT</pubDate>
     <generator>http://hexo.io/</generator>
+    
+    <item>
+      <title>回眸</title>
+      <link>http://wardzhou.art/2020/03/14/wardxcoulson1/</link>
+      <guid>http://wardzhou.art/2020/03/14/wardxcoulson1/</guid>
+      <pubDate>Sat, 14 Mar 2020 14:10:53 GMT</pubDate>
+      <description>
+      
+        
+        
+          
+          
+            &lt;h2 id=&quot;第一章--第七级别&quot;&gt;第一章  第七级别&lt;a href=&quot;#第一章--第七级别&quot; title=&quot;第一章  第七级别&quot;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;h3 id=&quot;chapter-one---level-seven&quot;&gt;Chapter One   Level Seven&lt;a
+          
+        
+      
+      </description>
+      
+      
+      <comments>http://wardzhou.art/2020/03/14/wardxcoulson1/#disqus_thread</comments>
+    </item>
     
     <item>
       <title>Nginx站点配置SSL</title>
@@ -419,28 +440,6 @@
       
       
       <comments>http://wardzhou.art/2020/01/18/PromisesChapter4/#disqus_thread</comments>
-    </item>
-    
-    <item>
-      <title>Promises第三章</title>
-      <link>http://wardzhou.art/2020/01/17/PromisesChapter3/</link>
-      <guid>http://wardzhou.art/2020/01/17/PromisesChapter3/</guid>
-      <pubDate>Fri, 17 Jan 2020 07:09:26 GMT</pubDate>
-      <description>
-      
-        
-        
-          
-          
-            &lt;h1 id=&quot;promises&quot;&gt;Promises&lt;a href=&quot;#promises&quot; title=&quot;Promises&quot;&gt;&lt;/a&gt;&lt;/h1&gt;&lt;p&gt;&lt;em&gt;Marie Sexton&lt;/em&gt;&lt;/p&gt;
-&lt;h2 id=&quot;第三章&quot;&gt;第三章&lt;a href=&quot;#第三章&quot;
-          
-        
-      
-      </description>
-      
-      
-      <comments>http://wardzhou.art/2020/01/17/PromisesChapter3/#disqus_thread</comments>
     </item>
     
   </channel>
