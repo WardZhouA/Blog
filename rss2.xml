@@ -15,8 +15,29 @@
     <atom:link href="/rss2.xml" rel="self" type="application/rss+xml"/>
     
     <description>白桦树下的人de博客</description>
-    <pubDate>Sat, 14 Mar 2020 14:51:11 GMT</pubDate>
+    <pubDate>Mon, 16 Mar 2020 17:26:01 GMT</pubDate>
     <generator>http://hexo.io/</generator>
+    
+    <item>
+      <title>test</title>
+      <link>http://wardzhou.art/2020/03/17/test/</link>
+      <guid>http://wardzhou.art/2020/03/17/test/</guid>
+      <pubDate>Mon, 16 Mar 2020 16:56:01 GMT</pubDate>
+      <description>
+      
+        
+        
+          
+          
+            &lt;figure class=&quot;highlight c&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span
+          
+        
+      
+      </description>
+      
+      
+      <comments>http://wardzhou.art/2020/03/17/test/#disqus_thread</comments>
+    </item>
     
     <item>
       <title>回眸</title>
@@ -418,28 +439,6 @@
       
       
       <comments>http://wardzhou.art/2020/01/19/PromisesChapter5/#disqus_thread</comments>
-    </item>
-    
-    <item>
-      <title>Promises第四章</title>
-      <link>http://wardzhou.art/2020/01/18/PromisesChapter4/</link>
-      <guid>http://wardzhou.art/2020/01/18/PromisesChapter4/</guid>
-      <pubDate>Sat, 18 Jan 2020 03:33:57 GMT</pubDate>
-      <description>
-      
-        
-        
-          
-          
-            &lt;h1 id=&quot;promises&quot;&gt;Promises&lt;a href=&quot;#promises&quot; title=&quot;Promises&quot;&gt;&lt;/a&gt;&lt;/h1&gt;&lt;p&gt;&lt;em&gt;Marie Sexton&lt;/em&gt;&lt;/p&gt;
-&lt;h2 id=&quot;第四章&quot;&gt;第四章&lt;a href=&quot;#第四章&quot;
-          
-        
-      
-      </description>
-      
-      
-      <comments>http://wardzhou.art/2020/01/18/PromisesChapter4/#disqus_thread</comments>
     </item>
     
   </channel>
