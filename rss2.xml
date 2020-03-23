@@ -15,8 +15,52 @@
     <atom:link href="/rss2.xml" rel="self" type="application/rss+xml"/>
     
     <description>白桦树下的人de博客</description>
-    <pubDate>Mon, 16 Mar 2020 17:26:01 GMT</pubDate>
+    <pubDate>Mon, 23 Mar 2020 02:22:01 GMT</pubDate>
     <generator>http://hexo.io/</generator>
+    
+    <item>
+      <title>AdobeXD和Axure PR 9安装及汉化</title>
+      <link>http://wardzhou.art/2020/03/23/installAxure/</link>
+      <guid>http://wardzhou.art/2020/03/23/installAxure/</guid>
+      <pubDate>Mon, 23 Mar 2020 02:07:57 GMT</pubDate>
+      <description>
+      
+        
+        
+          
+          
+            &lt;h2 id=&quot;adobe-xd&quot;&gt;Adobe XD&lt;a href=&quot;#adobe-xd&quot; title=&quot;Adobe XD&quot;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;Adobe XD为免费软件，且原生支持中文，请移步官网下载&lt;/p&gt;
+&lt;p&gt;&lt;a
+          
+        
+      
+      </description>
+      
+      
+      <comments>http://wardzhou.art/2020/03/23/installAxure/#disqus_thread</comments>
+    </item>
+    
+    <item>
+      <title>Promises第十七章</title>
+      <link>http://wardzhou.art/2020/03/19/PromisesChapter17/</link>
+      <guid>http://wardzhou.art/2020/03/19/PromisesChapter17/</guid>
+      <pubDate>Wed, 18 Mar 2020 16:30:38 GMT</pubDate>
+      <description>
+      
+        
+        
+          
+          
+            &lt;h1 id=&quot;promises&quot;&gt;Promises&lt;a href=&quot;#promises&quot; title=&quot;Promises&quot;&gt;&lt;/a&gt;&lt;/h1&gt;&lt;p&gt;&lt;em&gt;Marie Sexton&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;⚠Please assure to check out
+          
+        
+      
+      </description>
+      
+      
+      <comments>http://wardzhou.art/2020/03/19/PromisesChapter17/#disqus_thread</comments>
+    </item>
     
     <item>
       <title>test</title>
@@ -395,50 +439,6 @@
       
       
       <comments>http://wardzhou.art/2020/01/22/PromisesChapter7/#disqus_thread</comments>
-    </item>
-    
-    <item>
-      <title>Promises第六章</title>
-      <link>http://wardzhou.art/2020/01/22/PromisesChapter6/</link>
-      <guid>http://wardzhou.art/2020/01/22/PromisesChapter6/</guid>
-      <pubDate>Tue, 21 Jan 2020 16:47:05 GMT</pubDate>
-      <description>
-      
-        
-        
-          
-          
-            &lt;h1 id=&quot;promises&quot;&gt;Promises&lt;a href=&quot;#promises&quot; title=&quot;Promises&quot;&gt;&lt;/a&gt;&lt;/h1&gt;&lt;p&gt;&lt;em&gt;Marie Sexton&lt;/em&gt;&lt;/p&gt;
-&lt;h2 id=&quot;第六章&quot;&gt;第六章&lt;a href=&quot;#第六章&quot;
-          
-        
-      
-      </description>
-      
-      
-      <comments>http://wardzhou.art/2020/01/22/PromisesChapter6/#disqus_thread</comments>
-    </item>
-    
-    <item>
-      <title>Promises第五章</title>
-      <link>http://wardzhou.art/2020/01/19/PromisesChapter5/</link>
-      <guid>http://wardzhou.art/2020/01/19/PromisesChapter5/</guid>
-      <pubDate>Sun, 19 Jan 2020 13:24:02 GMT</pubDate>
-      <description>
-      
-        
-        
-          
-          
-            &lt;h1 id=&quot;promises&quot;&gt;Promises&lt;a href=&quot;#promises&quot; title=&quot;Promises&quot;&gt;&lt;/a&gt;&lt;/h1&gt;&lt;p&gt;&lt;em&gt;Marie Sexton&lt;/em&gt;&lt;/p&gt;
-&lt;h2 id=&quot;第五章&quot;&gt;第五章&lt;a href=&quot;#第五章&quot;
-          
-        
-      
-      </description>
-      
-      
-      <comments>http://wardzhou.art/2020/01/19/PromisesChapter5/#disqus_thread</comments>
     </item>
     
   </channel>
