@@ -15,8 +15,26 @@
     <atom:link href="/rss2.xml" rel="self" type="application/rss+xml"/>
     
     <description>白桦树下的人de博客</description>
-    <pubDate>Tue, 07 Apr 2020 09:42:30 GMT</pubDate>
+    <pubDate>Fri, 10 Apr 2020 14:30:33 GMT</pubDate>
     <generator>http://hexo.io/</generator>
+    
+    <item>
+      <title>山桃</title>
+      <link>http://wardzhou.art/2020/04/10/%E5%B1%B1%E6%A1%83/</link>
+      <guid>http://wardzhou.art/2020/04/10/%E5%B1%B1%E6%A1%83/</guid>
+      <pubDate>Fri, 10 Apr 2020 11:23:39 GMT</pubDate>
+      <description>
+      
+        &lt;blockquote&gt;
+&lt;p&gt;山桃红花满上头,蜀江春水拍山流。&lt;br&gt;花红易衰似郎意,水流无限似侬愁。&lt;/p&gt;
+&lt;p&gt;——&lt;cite&gt;《竹枝词》刘禹锡&lt;/cite&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+      
+      </description>
+      
+      
+      <comments>http://wardzhou.art/2020/04/10/%E5%B1%B1%E6%A1%83/#disqus_thread</comments>
+    </item>
     
     <item>
       <title>角落</title>
@@ -418,28 +436,6 @@
       
       
       <comments>http://wardzhou.art/2020/02/04/%E8%BF%B7%E6%83%98%E4%B8%8E%E6%89%A7%E7%9D%80/#disqus_thread</comments>
-    </item>
-    
-    <item>
-      <title>甄嬛传中出现的诗词摘抄</title>
-      <link>http://wardzhou.art/2020/02/01/%E7%94%84%E5%AC%9B%E4%BC%A0%E5%87%BA%E7%8E%B0%E7%9A%84%E8%AF%97%E8%AF%8D%E6%91%98%E6%8A%84/</link>
-      <guid>http://wardzhou.art/2020/02/01/%E7%94%84%E5%AC%9B%E4%BC%A0%E5%87%BA%E7%8E%B0%E7%9A%84%E8%AF%97%E8%AF%8D%E6%91%98%E6%8A%84/</guid>
-      <pubDate>Sat, 01 Feb 2020 11:48:46 GMT</pubDate>
-      <description>
-      
-        
-        
-          
-          
-            &lt;h2 id=&quot;长相思&quot;&gt;长相思&lt;a href=&quot;#长相思&quot; title=&quot;长相思&quot;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;李白&lt;/strong&gt;&lt;/p&gt;
-&lt;h3 id=&quot;其一&quot;&gt;其一&lt;a href=&quot;#其一&quot;
-          
-        
-      
-      </description>
-      
-      
-      <comments>http://wardzhou.art/2020/02/01/%E7%94%84%E5%AC%9B%E4%BC%A0%E5%87%BA%E7%8E%B0%E7%9A%84%E8%AF%97%E8%AF%8D%E6%91%98%E6%8A%84/#disqus_thread</comments>
     </item>
     
   </channel>
