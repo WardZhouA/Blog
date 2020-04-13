@@ -15,7 +15,7 @@
     <atom:link href="/rss2.xml" rel="self" type="application/rss+xml"/>
     
     <description>白桦树下的人de博客</description>
-    <pubDate>Mon, 13 Apr 2020 16:57:55 GMT</pubDate>
+    <pubDate>Mon, 13 Apr 2020 17:42:35 GMT</pubDate>
     <generator>http://hexo.io/</generator>
     
     <item>
@@ -30,7 +30,9 @@
           
           
             &lt;h2 id=&quot;preview&quot;&gt;Preview&lt;a title=&quot;#preview&quot; href=&quot;#preview&quot;&gt;&lt;/a&gt;&lt;/h2&gt;
-&lt;h2 id=&quot;general-solution&quot;&gt;General Solution&lt;a
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Normal style&lt;/strong&gt;&lt;br&gt;
+&lt;img
           
         
       
