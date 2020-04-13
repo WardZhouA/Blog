@@ -8,5 +8,5 @@ if(readTime > 1){
 }else{
     outcome = 'Readable Time 1min';
 }
-var $add = $('<i class="fa fa-clock-o"></i> <div class="φgk">' + outcome + '</div>');
+var $add = $('<div class="φgk"><i class="fa fa-clock-o"></i> ' + outcome + '</div>');
 $container.append($add);
