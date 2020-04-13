@@ -15,8 +15,51 @@
     <atom:link href="/rss2.xml" rel="self" type="application/rss+xml"/>
     
     <description>白桦树下的人de博客</description>
-    <pubDate>Fri, 10 Apr 2020 15:58:31 GMT</pubDate>
+    <pubDate>Mon, 13 Apr 2020 16:57:55 GMT</pubDate>
     <generator>http://hexo.io/</generator>
+    
+    <item>
+      <title>Add reading time for theme inside</title>
+      <link>http://wardzhou.art/2020/04/14/wordcount/</link>
+      <guid>http://wardzhou.art/2020/04/14/wordcount/</guid>
+      <pubDate>Mon, 13 Apr 2020 16:09:24 GMT</pubDate>
+      <description>
+      
+        
+        
+          
+          
+            &lt;h2 id=&quot;preview&quot;&gt;Preview&lt;a title=&quot;#preview&quot; href=&quot;#preview&quot;&gt;&lt;/a&gt;&lt;/h2&gt;
+&lt;h2 id=&quot;general-solution&quot;&gt;General Solution&lt;a
+          
+        
+      
+      </description>
+      
+      
+      <comments>http://wardzhou.art/2020/04/14/wordcount/#disqus_thread</comments>
+    </item>
+    
+    <item>
+      <title>test</title>
+      <link>http://wardzhou.art/2020/04/13/test/</link>
+      <guid>http://wardzhou.art/2020/04/13/test/</guid>
+      <pubDate>Sun, 12 Apr 2020 16:56:01 GMT</pubDate>
+      <description>
+      
+        
+        
+          
+          
+            &lt;figure class=&quot;highlight c&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span
+          
+        
+      
+      </description>
+      
+      
+      <comments>http://wardzhou.art/2020/04/13/test/#disqus_thread</comments>
+    </item>
     
     <item>
       <title>山桃</title>
@@ -26,7 +69,8 @@
       <description>
       
         &lt;blockquote&gt;
-&lt;p&gt;山桃红花满上头,蜀江春水拍山流。&lt;br&gt;花红易衰似郎意,水流无限似侬愁。&lt;/p&gt;
+&lt;p&gt;山桃红花满上头,蜀江春水拍山流。&lt;br&gt;
+花红易衰似郎意,水流无限似侬愁。&lt;/p&gt;
 &lt;p&gt;——&lt;cite&gt;《竹枝词》刘禹锡&lt;/cite&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
       
@@ -47,9 +91,17 @@
         
           
           
-            &lt;p&gt;把自己放在床上&lt;br&gt;找一个舒适的角落&lt;br&gt;闭上眼&lt;/p&gt;
-&lt;p&gt;一道烛火照亮了这儿&lt;br&gt;那长满青草的赤丘&lt;br&gt;泛起昏黄的光晕&lt;br&gt;掺着火柴和松香的味道&lt;br&gt;微微刺鼻却令人醉迷&lt;/p&gt;
-&lt;p&gt;深夜的冷气不甘地褪去&lt;br&gt;留下的只是那一处&lt;br&gt;松软而温暖的角落&lt;/
+            &lt;p&gt;把自己放在床上&lt;br&gt;
+找一个舒适的角落&lt;br&gt;
+闭上眼&lt;/p&gt;
+&lt;p&gt;一道烛火照亮了这儿&lt;br&gt;
+那长满青草的赤丘&lt;br&gt;
+泛起昏黄的光晕&lt;br&gt;
+掺着火柴和松香的味道&lt;br&gt;
+微微刺鼻却令人醉迷&lt;/p&gt;
+&lt;p&gt;深夜的冷气不甘地褪去&lt;br&gt;
+留下的只是那一处&lt;br&gt;
+松软
           
         
       
@@ -70,7 +122,10 @@
         
           
           
-            &lt;h2 id=&quot;adobe-xd&quot;&gt;Adobe XD&lt;a href=&quot;#adobe-xd&quot; title=&quot;Adobe XD&quot;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;Adobe XD为免费软件，且原生支持中文，请移步官网下载&lt;/p&gt;
+            &lt;h2 id=&quot;adobe-xd&quot;&gt;Adobe XD&lt;a title=&quot;#adobe-xd&quot; href=&quot;#adobe-xd&quot;&gt;&lt;/a&gt;&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Adobe XD为免费软件，且原生支持中文，请移步官网下载&lt;/p&gt;
 &lt;p&gt;&lt;a
           
         
@@ -92,8 +147,9 @@
         
           
           
-            &lt;h1 id=&quot;promises&quot;&gt;Promises&lt;a href=&quot;#promises&quot; title=&quot;Promises&quot;&gt;&lt;/a&gt;&lt;/h1&gt;&lt;p&gt;&lt;em&gt;Marie Sexton&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;⚠Please assure to check out
+            &lt;h1 id=&quot;promises&quot;&gt;Promises&lt;a title=&quot;#promises&quot; href=&quot;#promises&quot;&gt;&lt;/a&gt;&lt;/h1&gt;
+&lt;p&gt;&lt;em&gt;Marie Sexton&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;⚠Please assure to check
           
         
       
@@ -101,27 +157,6 @@
       
       
       <comments>http://wardzhou.art/2020/03/19/PromisesChapter17/#disqus_thread</comments>
-    </item>
-    
-    <item>
-      <title>test</title>
-      <link>http://wardzhou.art/2020/03/17/test/</link>
-      <guid>http://wardzhou.art/2020/03/17/test/</guid>
-      <pubDate>Mon, 16 Mar 2020 16:56:01 GMT</pubDate>
-      <description>
-      
-        
-        
-          
-          
-            &lt;figure class=&quot;highlight c&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span
-          
-        
-      
-      </description>
-      
-      
-      <comments>http://wardzhou.art/2020/03/17/test/#disqus_thread</comments>
     </item>
     
     <item>
@@ -135,7 +170,8 @@
         
           
           
-            &lt;h2 id=&quot;第一章--第七级别&quot;&gt;第一章  第七级别&lt;a href=&quot;#第一章--第七级别&quot; title=&quot;第一章  第七级别&quot;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;h3 id=&quot;chapter-one---level-seven&quot;&gt;Chapter One   Level Seven&lt;a
+            &lt;h2 id=&quot;第一章--第七级别&quot;&gt;第一章  第七级别&lt;a title=&quot;#第一章--第七级别&quot; href=&quot;#第一章--第七级别&quot;&gt;&lt;/a&gt;&lt;/h2&gt;
+&lt;h3 id=&quot;chapter-one---level-seven&quot;&gt;Chapter One   Level
           
         
       
@@ -157,7 +193,7 @@
           
           
             &lt;p&gt;本文接上一篇&lt;a href=&quot;2020/02/29/nginxServer&quot;&gt;CentOS下使用Nginx+Git部署hexo&lt;/a&gt;&lt;/p&gt;
-&lt;h2 id=&quot;服务器端&quot;&gt;服务器端&lt;a href=&quot;#服务器端&quot;
+&lt;h2 id=&quot;服务器端&quot;&gt;服务器端&lt;a title=&quot;#服务器端&quot;
           
         
       
@@ -178,8 +214,9 @@
         
           
           
-            &lt;h1 id=&quot;promises&quot;&gt;Promises&lt;a href=&quot;#promises&quot; title=&quot;Promises&quot;&gt;&lt;/a&gt;&lt;/h1&gt;&lt;p&gt;&lt;em&gt;Marie Sexton&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;⚠Please assure to check out
+            &lt;h1 id=&quot;promises&quot;&gt;Promises&lt;a title=&quot;#promises&quot; href=&quot;#promises&quot;&gt;&lt;/a&gt;&lt;/h1&gt;
+&lt;p&gt;&lt;em&gt;Marie Sexton&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;⚠Please assure to check
           
         
       
@@ -200,7 +237,9 @@
         
           
           
-            &lt;h2 id=&quot;服务器端&quot;&gt;服务器端&lt;a href=&quot;#服务器端&quot; title=&quot;服务器端&quot;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;h3 id=&quot;安装依赖组件&quot;&gt;安装依赖组件&lt;a href=&quot;#安装依赖组件&quot; title=&quot;安装依赖组件&quot;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;&lt;code&gt;yum
+            &lt;h2 id=&quot;服务器端&quot;&gt;服务器端&lt;a title=&quot;#服务器端&quot; href=&quot;#服务器端&quot;&gt;&lt;/a&gt;&lt;/h2&gt;
+&lt;h3 id=&quot;安装依赖组件&quot;&gt;安装依赖组件&lt;a title=&quot;#安装依赖组件&quot; href=&quot;#安装依赖组件&quot;&gt;&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;code&gt;yum
           
         
       
@@ -221,8 +260,9 @@
         
           
           
-            &lt;h1 id=&quot;promises&quot;&gt;Promises&lt;a href=&quot;#promises&quot; title=&quot;Promises&quot;&gt;&lt;/a&gt;&lt;/h1&gt;&lt;p&gt;&lt;em&gt;Marie Sexton&lt;/em&gt;&lt;/p&gt;
-&lt;h2 id=&quot;第十五章&quot;&gt;第十五章&lt;a href=&quot;#第十五章&quot;
+            &lt;h1 id=&quot;promises&quot;&gt;Promises&lt;a title=&quot;#promises&quot; href=&quot;#promises&quot;&gt;&lt;/a&gt;&lt;/h1&gt;
+&lt;p&gt;&lt;em&gt;Marie Sexton&lt;/em&gt;&lt;/p&gt;
+&lt;h2 id=&quot;第十五章&quot;&gt;第十五章&lt;a title=&quot;#第十五章&quot;
           
         
       
@@ -239,7 +279,8 @@
       <pubDate>Sat, 22 Feb 2020 14:50:52 GMT</pubDate>
       <description>
       
-        &lt;p&gt;我的眼睛睁开了一点，他的身体正在贴近，注视着我，脸上的表情是我从没见过的。&lt;br&gt;他的眉毛微微下垂，双眼灰暗而忧愁&lt;/p&gt;
+        &lt;p&gt;我的眼睛睁开了一点，他的身体正在贴近，注视着我，脸上的表情是我从没见过的。&lt;br&gt;
+他的眉毛微微下垂，双眼灰暗而忧愁&lt;/p&gt;
       
       </description>
       
@@ -254,7 +295,9 @@
       <pubDate>Thu, 20 Feb 2020 13:49:09 GMT</pubDate>
       <description>
       
-        &lt;p&gt;突然我的心跳开始加速，嘴唇干涩。&lt;br&gt;我的目光失去控制地钉在他身上。&lt;br&gt;这一刻，时空之里只有他。&lt;/p&gt;
+        &lt;p&gt;突然我的心跳开始加速，嘴唇干涩。&lt;br&gt;
+我的目光失去控制地钉在他身上。&lt;br&gt;
+这一刻，时空之里只有他。&lt;/p&gt;
       
       </description>
       
@@ -273,8 +316,9 @@
         
           
           
-            &lt;h1 id=&quot;promises&quot;&gt;Promises&lt;a href=&quot;#promises&quot; title=&quot;Promises&quot;&gt;&lt;/a&gt;&lt;/h1&gt;&lt;p&gt;&lt;em&gt;Marie Sexton&lt;/em&gt;&lt;/p&gt;
-&lt;h2 id=&quot;第十二章&quot;&gt;第十二章&lt;a href=&quot;#第十二章&quot;
+            &lt;h1 id=&quot;promises&quot;&gt;Promises&lt;a title=&quot;#promises&quot; href=&quot;#promises&quot;&gt;&lt;/a&gt;&lt;/h1&gt;
+&lt;p&gt;&lt;em&gt;Marie Sexton&lt;/em&gt;&lt;/p&gt;
+&lt;h2 id=&quot;第十二章&quot;&gt;第十二章&lt;a title=&quot;#第十二章&quot;
           
         
       
@@ -295,8 +339,9 @@
         
           
           
-            &lt;h1 id=&quot;promises&quot;&gt;Promises&lt;a href=&quot;#promises&quot; title=&quot;Promises&quot;&gt;&lt;/a&gt;&lt;/h1&gt;&lt;p&gt;&lt;em&gt;Marie Sexton&lt;/em&gt;&lt;/p&gt;
-&lt;h2 id=&quot;第十一章&quot;&gt;第十一章&lt;a href=&quot;#第十一章&quot;
+            &lt;h1 id=&quot;promises&quot;&gt;Promises&lt;a title=&quot;#promises&quot; href=&quot;#promises&quot;&gt;&lt;/a&gt;&lt;/h1&gt;
+&lt;p&gt;&lt;em&gt;Marie Sexton&lt;/em&gt;&lt;/p&gt;
+&lt;h2 id=&quot;第十一章&quot;&gt;第十一章&lt;a title=&quot;#第十一章&quot;
           
         
       
@@ -361,8 +406,9 @@
         
           
           
-            &lt;h1 id=&quot;promises&quot;&gt;Promises&lt;a href=&quot;#promises&quot; title=&quot;Promises&quot;&gt;&lt;/a&gt;&lt;/h1&gt;&lt;p&gt;&lt;em&gt;Marie Sexton&lt;/em&gt;&lt;/p&gt;
-&lt;h2 id=&quot;第十章&quot;&gt;第十章&lt;a href=&quot;#第十章&quot;
+            &lt;h1 id=&quot;promises&quot;&gt;Promises&lt;a title=&quot;#promises&quot; href=&quot;#promises&quot;&gt;&lt;/a&gt;&lt;/h1&gt;
+&lt;p&gt;&lt;em&gt;Marie Sexton&lt;/em&gt;&lt;/p&gt;
+&lt;h2 id=&quot;第十章&quot;&gt;第十章&lt;a title=&quot;#第十章&quot;
           
         
       
@@ -383,8 +429,9 @@
         
           
           
-            &lt;h1 id=&quot;promises&quot;&gt;Promises&lt;a href=&quot;#promises&quot; title=&quot;Promises&quot;&gt;&lt;/a&gt;&lt;/h1&gt;&lt;p&gt;&lt;em&gt;Marie Sexton&lt;/em&gt;&lt;/p&gt;
-&lt;h2 id=&quot;第九章&quot;&gt;第九章&lt;a href=&quot;#第九章&quot;
+            &lt;h1 id=&quot;promises&quot;&gt;Promises&lt;a title=&quot;#promises&quot; href=&quot;#promises&quot;&gt;&lt;/a&gt;&lt;/h1&gt;
+&lt;p&gt;&lt;em&gt;Marie Sexton&lt;/em&gt;&lt;/p&gt;
+&lt;h2 id=&quot;第九章&quot;&gt;第九章&lt;a title=&quot;#第九章&quot;
           
         
       
@@ -405,8 +452,9 @@
         
           
           
-            &lt;h1 id=&quot;promises&quot;&gt;Promises&lt;a href=&quot;#promises&quot; title=&quot;Promises&quot;&gt;&lt;/a&gt;&lt;/h1&gt;&lt;p&gt;&lt;em&gt;Marie Sexton&lt;/em&gt;&lt;/p&gt;
-&lt;h2 id=&quot;第八章&quot;&gt;第八章&lt;a href=&quot;#第八章&quot;
+            &lt;h1 id=&quot;promises&quot;&gt;Promises&lt;a title=&quot;#promises&quot; href=&quot;#promises&quot;&gt;&lt;/a&gt;&lt;/h1&gt;
+&lt;p&gt;&lt;em&gt;Marie Sexton&lt;/em&gt;&lt;/p&gt;
+&lt;h2 id=&quot;第八章&quot;&gt;第八章&lt;a title=&quot;#第八章&quot;
           
         
       
@@ -414,28 +462,6 @@
       
       
       <comments>http://wardzhou.art/2020/02/06/PromisesChapter8/#disqus_thread</comments>
-    </item>
-    
-    <item>
-      <title>迷惘与执着</title>
-      <link>http://wardzhou.art/2020/02/04/%E8%BF%B7%E6%83%98%E4%B8%8E%E6%89%A7%E7%9D%80/</link>
-      <guid>http://wardzhou.art/2020/02/04/%E8%BF%B7%E6%83%98%E4%B8%8E%E6%89%A7%E7%9D%80/</guid>
-      <pubDate>Tue, 04 Feb 2020 11:34:02 GMT</pubDate>
-      <description>
-      
-        
-        
-          
-          
-            &lt;p&gt;The City and the Pillar（城与柱），据wiki词条所说——&lt;/p&gt;
-&lt;blockquote&gt;&lt;p&gt;It is recognized as the first post-World War II novel whose gay protagonist
-          
-        
-      
-      </description>
-      
-      
-      <comments>http://wardzhou.art/2020/02/04/%E8%BF%B7%E6%83%98%E4%B8%8E%E6%89%A7%E7%9D%80/#disqus_thread</comments>
     </item>
     
   </channel>
