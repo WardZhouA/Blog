@@ -15,11 +15,11 @@
     <atom:link href="/rss2.xml" rel="self" type="application/rss+xml"/>
     
     <description>白桦树下的人de博客</description>
-    <pubDate>Mon, 13 Apr 2020 17:42:35 GMT</pubDate>
+    <pubDate>Mon, 13 Apr 2020 17:44:27 GMT</pubDate>
     <generator>http://hexo.io/</generator>
     
     <item>
-      <title>Add reading time for theme inside</title>
+      <title>Add readable time for theme inside</title>
       <link>http://wardzhou.art/2020/04/14/wordcount/</link>
       <guid>http://wardzhou.art/2020/04/14/wordcount/</guid>
       <pubDate>Mon, 13 Apr 2020 16:09:24 GMT</pubDate>
