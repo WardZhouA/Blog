@@ -1,7 +1,8 @@
 
 var $container = $("[class='φgj φo']");
 var readTime = document.querySelector("article").innerText.length;
-var readTime = Math.round(readTime / 400);
+var imgAmmount = $("img").length;
+var readTime = Math.round(readTime / 400 + imgAmmount*5/60);
 var outcome ;
 if(readTime > 1){
     outcome = 'Readable Time ' + readTime + 'min';
