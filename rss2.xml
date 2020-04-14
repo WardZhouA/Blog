@@ -15,8 +15,30 @@
     <atom:link href="/rss2.xml" rel="self" type="application/rss+xml"/>
     
     <description>白桦树下的人de博客</description>
-    <pubDate>Mon, 13 Apr 2020 17:57:14 GMT</pubDate>
+    <pubDate>Tue, 14 Apr 2020 11:04:18 GMT</pubDate>
     <generator>http://hexo.io/</generator>
+    
+    <item>
+      <title>晚春 Deep Spring</title>
+      <link>http://wardzhou.art/2020/04/14/deepSpring/</link>
+      <guid>http://wardzhou.art/2020/04/14/deepSpring/</guid>
+      <pubDate>Tue, 14 Apr 2020 10:49:36 GMT</pubDate>
+      <description>
+      
+        
+        
+          
+          
+            &lt;p&gt;&lt;img src=&quot;https://cdn.wardzhou.art/img/DSC04547.jpg&quot; alt=&quot;&quot; class=&quot;φcx&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://cdn.wardzhou.art/img/DSC04491.jpg&quot;
+          
+        
+      
+      </description>
+      
+      
+      <comments>http://wardzhou.art/2020/04/14/deepSpring/#disqus_thread</comments>
+    </item>
     
     <item>
       <title>Add readable time for theme inside</title>
@@ -64,7 +86,7 @@
     </item>
     
     <item>
-      <title>山桃</title>
+      <title>山桃 Wild Peach</title>
       <link>http://wardzhou.art/2020/04/10/%E5%B1%B1%E6%A1%83/</link>
       <guid>http://wardzhou.art/2020/04/10/%E5%B1%B1%E6%A1%83/</guid>
       <pubDate>Fri, 10 Apr 2020 11:23:39 GMT</pubDate>
@@ -441,29 +463,6 @@
       
       
       <comments>http://wardzhou.art/2020/02/07/PromisesChapter9/#disqus_thread</comments>
-    </item>
-    
-    <item>
-      <title>Promises第八章</title>
-      <link>http://wardzhou.art/2020/02/06/PromisesChapter8/</link>
-      <guid>http://wardzhou.art/2020/02/06/PromisesChapter8/</guid>
-      <pubDate>Thu, 06 Feb 2020 13:37:18 GMT</pubDate>
-      <description>
-      
-        
-        
-          
-          
-            &lt;h1 id=&quot;promises&quot;&gt;Promises&lt;a title=&quot;#promises&quot; href=&quot;#promises&quot;&gt;&lt;/a&gt;&lt;/h1&gt;
-&lt;p&gt;&lt;em&gt;Marie Sexton&lt;/em&gt;&lt;/p&gt;
-&lt;h2 id=&quot;第八章&quot;&gt;第八章&lt;a title=&quot;#第八章&quot;
-          
-        
-      
-      </description>
-      
-      
-      <comments>http://wardzhou.art/2020/02/06/PromisesChapter8/#disqus_thread</comments>
     </item>
     
   </channel>
