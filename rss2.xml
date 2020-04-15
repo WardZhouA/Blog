@@ -15,8 +15,29 @@
     <atom:link href="/rss2.xml" rel="self" type="application/rss+xml"/>
     
     <description>白桦树下的人de博客</description>
-    <pubDate>Tue, 14 Apr 2020 11:04:18 GMT</pubDate>
+    <pubDate>Wed, 15 Apr 2020 02:18:07 GMT</pubDate>
     <generator>http://hexo.io/</generator>
+    
+    <item>
+      <title>Prologue</title>
+      <link>http://wardzhou.art/2020/04/15/prologue/</link>
+      <guid>http://wardzhou.art/2020/04/15/prologue/</guid>
+      <pubDate>Tue, 14 Apr 2020 18:25:14 GMT</pubDate>
+      <description>
+      
+        
+        
+          
+          
+            &lt;iframe src=&quot;https://open.spotify.com/embed/track/5VFzIzR8nACf9Bad4O73f6&quot; width=&quot;300&quot; height=&quot;380&quot; frameborder=&quot;0&quot; allowtransparency=&quot;true&quot;
+          
+        
+      
+      </description>
+      
+      
+      <comments>http://wardzhou.art/2020/04/15/prologue/#disqus_thread</comments>
+    </item>
     
     <item>
       <title>晚春 Deep Spring</title>
@@ -440,29 +461,6 @@
       
       
       <comments>http://wardzhou.art/2020/02/11/PromisesChapter10/#disqus_thread</comments>
-    </item>
-    
-    <item>
-      <title>Promises第九章</title>
-      <link>http://wardzhou.art/2020/02/07/PromisesChapter9/</link>
-      <guid>http://wardzhou.art/2020/02/07/PromisesChapter9/</guid>
-      <pubDate>Thu, 06 Feb 2020 17:14:42 GMT</pubDate>
-      <description>
-      
-        
-        
-          
-          
-            &lt;h1 id=&quot;promises&quot;&gt;Promises&lt;a title=&quot;#promises&quot; href=&quot;#promises&quot;&gt;&lt;/a&gt;&lt;/h1&gt;
-&lt;p&gt;&lt;em&gt;Marie Sexton&lt;/em&gt;&lt;/p&gt;
-&lt;h2 id=&quot;第九章&quot;&gt;第九章&lt;a title=&quot;#第九章&quot;
-          
-        
-      
-      </description>
-      
-      
-      <comments>http://wardzhou.art/2020/02/07/PromisesChapter9/#disqus_thread</comments>
     </item>
     
   </channel>
