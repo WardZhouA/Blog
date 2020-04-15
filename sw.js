@@ -4,7 +4,7 @@ workbox.setConfig({ modulePathPrefix: 'https://g.alicdn.com/kg/workbox/3.3.0/' }
 self.addEventListener('install', function (event) {
   event.waitUntil(
     caches.keys().then(function (names) {
-      var validSets = ["is-sw-50a76b","is-html-50a76b","is-jsdelivr-50a76b","is-gtm-50a76b","is-gravatar-50a76b","is-theme-50a76b","is-cdn-50a76b","is-json-50a76b"];
+      var validSets = ["is-sw-c93237","is-html-c93237","is-jsdelivr-c93237","is-gtm-c93237","is-gravatar-c93237","is-theme-c93237","is-cdn-c93237","is-json-c93237","is-custom-c93237"];
       return Promise.all(
         names
           .filter(function (name) { return !~validSets.indexOf(name); })
@@ -18,31 +18,28 @@ self.addEventListener('install', function (event) {
 });
 
 workbox.routing.registerRoute(new RegExp('sw\\.js'), workbox.strategies.networkOnly({
-  cacheName: 'is-sw-50a76b',
+  cacheName: 'is-sw-c93237',
 }));
 workbox.routing.registerRoute(new RegExp('https://cdn\\.jsdelivr\\.net'), workbox.strategies.staleWhileRevalidate({
-  cacheName: 'is-jsdelivr-50a76b',
-  plugins: [ new workbox.expiration.Plugin({ maxAgeSeconds: 14400 }) ],
+  cacheName: 'is-jsdelivr-c93237',
 }));
 workbox.routing.registerRoute(new RegExp('https://www\\.googletagmanager\\.com\?id=.*'), workbox.strategies.staleWhileRevalidate({
-  cacheName: 'is-gtm-50a76b',
-  plugins: [ new workbox.expiration.Plugin({ maxAgeSeconds: 14400 }) ],
+  cacheName: 'is-gtm-c93237',
 }));
 workbox.routing.registerRoute(new RegExp('https://www\\.gravatar\\.com'), workbox.strategies.staleWhileRevalidate({
-  cacheName: 'is-gravatar-50a76b',
-  plugins: [ new workbox.expiration.Plugin({ maxAgeSeconds: 14400 }) ],
+  cacheName: 'is-gravatar-c93237',
 }));
 workbox.routing.registerRoute(new RegExp('/.*\\.(?:js|css|woff2|png|jpg|gif)$'), workbox.strategies.staleWhileRevalidate({
-  cacheName: 'is-theme-50a76b',
-  plugins: [ new workbox.expiration.Plugin({ maxAgeSeconds: 14400 }) ],
+  cacheName: 'is-theme-c93237',
 }));
-workbox.routing.registerRoute(new RegExp('https://cdn\\.yourdomain\\.com'), workbox.strategies.staleWhileRevalidate({
-  cacheName: 'is-cdn-50a76b',
-  plugins: [ new workbox.expiration.Plugin({ maxAgeSeconds: 14400 }) ],
+workbox.routing.registerRoute(new RegExp('https://cdn\\.wardzhou\\.art'), workbox.strategies.staleWhileRevalidate({
+  cacheName: 'is-cdn-c93237',
 }));
 workbox.routing.registerRoute(new RegExp('your_data_prefix/.*\\.json'), workbox.strategies.cacheFirst({
-  cacheName: 'is-json-50a76b',
-  plugins: [ new workbox.expiration.Plugin({ maxAgeSeconds: 14400 }) ],
+  cacheName: 'is-json-c93237',
+}));
+workbox.routing.registerRoute(new RegExp('/custom/.*'), workbox.strategies.staleWhileRevalidate({
+  cacheName: 'is-custom-c93237',
 }));
 
 workbox.routing.registerRoute(new RegExp('/.*(:?/[^\\.]*/?)$'), function(context) {
