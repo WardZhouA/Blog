@@ -15,8 +15,31 @@
     <atom:link href="/rss2.xml" rel="self" type="application/rss+xml"/>
     
     <description>白桦树下的人de博客</description>
-    <pubDate>Wed, 15 Apr 2020 11:27:40 GMT</pubDate>
+    <pubDate>Fri, 17 Apr 2020 15:44:46 GMT</pubDate>
     <generator>http://hexo.io/</generator>
+    
+    <item>
+      <title>Corner Chapter1</title>
+      <link>http://wardzhou.art/2020/04/17/cornerChapter1/</link>
+      <guid>http://wardzhou.art/2020/04/17/cornerChapter1/</guid>
+      <pubDate>Fri, 17 Apr 2020 14:58:50 GMT</pubDate>
+      <description>
+      
+        
+        
+          
+          
+            &lt;p&gt;&lt;strong&gt;⚠Please assure to check out following tags before you read&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;#M/M&lt;/code&gt; &lt;code&gt;#Teen&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;It all
+          
+        
+      
+      </description>
+      
+      
+      <comments>http://wardzhou.art/2020/04/17/cornerChapter1/#disqus_thread</comments>
+    </item>
     
     <item>
       <title>Prologue</title>
@@ -438,29 +461,6 @@
       
       
       <comments>http://wardzhou.art/2020/02/15/%E4%B8%8E%E5%88%9D%E4%B8%8E%E7%BB%88/#disqus_thread</comments>
-    </item>
-    
-    <item>
-      <title>Promises第十章</title>
-      <link>http://wardzhou.art/2020/02/11/PromisesChapter10/</link>
-      <guid>http://wardzhou.art/2020/02/11/PromisesChapter10/</guid>
-      <pubDate>Tue, 11 Feb 2020 13:04:01 GMT</pubDate>
-      <description>
-      
-        
-        
-          
-          
-            &lt;h1 id=&quot;promises&quot;&gt;Promises&lt;a title=&quot;#promises&quot; href=&quot;#promises&quot;&gt;&lt;/a&gt;&lt;/h1&gt;
-&lt;p&gt;&lt;em&gt;Marie Sexton&lt;/em&gt;&lt;/p&gt;
-&lt;h2 id=&quot;第十章&quot;&gt;第十章&lt;a title=&quot;#第十章&quot;
-          
-        
-      
-      </description>
-      
-      
-      <comments>http://wardzhou.art/2020/02/11/PromisesChapter10/#disqus_thread</comments>
     </item>
     
   </channel>
