@@ -15,8 +15,38 @@
     <atom:link href="/rss2.xml" rel="self" type="application/rss+xml"/>
     
     <description>白桦树下的人de博客</description>
-    <pubDate>Sun, 19 Apr 2020 14:58:41 GMT</pubDate>
+    <pubDate>Tue, 21 Apr 2020 07:58:26 GMT</pubDate>
     <generator>http://hexo.io/</generator>
+    
+    <item>
+      <title>去年的树 Tree in Memory</title>
+      <link>http://wardzhou.art/2020/04/21/treeInMemory/</link>
+      <guid>http://wardzhou.art/2020/04/21/treeInMemory/</guid>
+      <pubDate>Tue, 21 Apr 2020 07:43:54 GMT</pubDate>
+      <description>
+      
+        
+        
+          
+          
+            &lt;p&gt;窗外有一颗跟我差不多高的树&lt;br&gt;
+我就看他摇啊摇啊&lt;/p&gt;
+&lt;p&gt;后来我就爱上了那棵树&lt;br&gt;
+他从不离开&lt;br&gt;
+只是站在那陪着我&lt;br&gt;
+清晨、夜晚&lt;br&gt;
+阳光明媚、风雨交加&lt;/p&gt;
+&lt;p&gt;他和月光一同&lt;br&gt;
+消逝在记忆力的那一天&lt;br&gt;
+火药与警笛叫嚣着&lt;br&gt;
+          
+        
+      
+      </description>
+      
+      
+      <comments>http://wardzhou.art/2020/04/21/treeInMemory/#disqus_thread</comments>
+    </item>
     
     <item>
       <title>雨落花 Flower in Shower</title>
@@ -435,29 +465,6 @@
       
       
       <comments>http://wardzhou.art/2020/02/19/PromisesChapter11/#disqus_thread</comments>
-    </item>
-    
-    <item>
-      <title>政治学书单【转】</title>
-      <link>http://wardzhou.art/2020/02/17/%E6%94%BF%E6%B2%BB%E5%AD%A6%E4%B9%A6%E5%8D%95/</link>
-      <guid>http://wardzhou.art/2020/02/17/%E6%94%BF%E6%B2%BB%E5%AD%A6%E4%B9%A6%E5%8D%95/</guid>
-      <pubDate>Mon, 17 Feb 2020 12:50:59 GMT</pubDate>
-      <description>
-      
-        
-        
-          
-          
-            &lt;p&gt;&lt;strong&gt;政治学博士必读书目&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;以下所列书目基本上是北京大学、复旦大学、人民大学、武汉大学、中山大学、厦门大学、南京大学、吉林大学(排名不分前后)等著名高校政治学博士生入学考试必读书目(参考书目)或者是政治学感兴趣者必读书目：&lt;/p&gt;
-&lt;
-          
-        
-      
-      </description>
-      
-      
-      <comments>http://wardzhou.art/2020/02/17/%E6%94%BF%E6%B2%BB%E5%AD%A6%E4%B9%A6%E5%8D%95/#disqus_thread</comments>
     </item>
     
   </channel>
