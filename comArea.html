@@ -1,0 +1,37 @@
+<script>
+    new Valine({
+        el: '#vcomment',
+        appId: 'QLCzHy5bTsfLQe0o5Q4KUtNI-gzGzoHsz',
+        appKey: 'EUElGMP580rwPe6ulVMa4CVF',
+        path: location.pathname,
+        notify: true,
+        lang: 'en',
+        placeholder: 'Share your ideas🤗',
+    })
+    $("[class='vcopy txt-right']").attr("style", "display:none;");
+</script>
+<div id="vcomment"></div>
+
+<div id="popupTrigger" data-popup-target="example" style="width: 40px;height: 40px;">
+    <a id="qrTrager">
+        <img src="/img/qr.png" alt="QrButton" height="40px" width="40px" />
+    </a>
+</div>
+<div class="popup" data-popup-id="example" tabindex="-1" role="dialog">
+    <div class="popup__container">
+                <div class="popup__content">
+            <div id="qrcode" style="width:100px; height:100px; margin:0 auto;"></div>
+        </div>
+    </div>
+</div>
+<script>
+    var qrcode = new QRCode(document.getElementById("qrcode"),
+        {
+            width: 100,
+            height: 100
+        });
+    qrcode.makeCode(window.location.href);
+</script>
+<script>
+    $('#popupTrigger').popup();
+</script>
