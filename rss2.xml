@@ -15,8 +15,38 @@
     <atom:link href="/rss2.xml" rel="self" type="application/rss+xml"/>
     
     <description>白桦树下的人de博客</description>
-    <pubDate>Tue, 21 Apr 2020 07:58:26 GMT</pubDate>
+    <pubDate>Thu, 23 Apr 2020 02:34:11 GMT</pubDate>
     <generator>http://hexo.io/</generator>
+    
+    <item>
+      <title>铁雨 ironRain</title>
+      <link>http://wardzhou.art/2020/04/23/ironRain/</link>
+      <guid>http://wardzhou.art/2020/04/23/ironRain/</guid>
+      <pubDate>Thu, 23 Apr 2020 02:17:02 GMT</pubDate>
+      <description>
+      
+        
+        
+          
+          
+            &lt;p&gt;机械而沉稳的声音&lt;br&gt;
+像是圆矩一样的熟识&lt;br&gt;
+棱角分明却刻着一丝柔情&lt;br&gt;
+无形的细丝将我们相连&lt;br&gt;
+我见你所见&lt;br&gt;
+你感我所感&lt;/p&gt;
+&lt;p&gt;我们在同一只沙漏中流逝&lt;br&gt;
+无论另一端是怎样&lt;br&gt;
+都深陷于彼此的命运&lt;/p&gt;
+&lt;p&gt;冰冷的金属熔化了隔断
+          
+        
+      
+      </description>
+      
+      
+      <comments>http://wardzhou.art/2020/04/23/ironRain/#disqus_thread</comments>
+    </item>
     
     <item>
       <title>去年的树 Tree in Memory</title>
@@ -442,29 +472,6 @@
       
       
       <comments>http://wardzhou.art/2020/02/19/PromisesChapter12/#disqus_thread</comments>
-    </item>
-    
-    <item>
-      <title>Promises第十一章</title>
-      <link>http://wardzhou.art/2020/02/19/PromisesChapter11/</link>
-      <guid>http://wardzhou.art/2020/02/19/PromisesChapter11/</guid>
-      <pubDate>Tue, 18 Feb 2020 18:20:00 GMT</pubDate>
-      <description>
-      
-        
-        
-          
-          
-            &lt;h1 id=&quot;promises&quot;&gt;Promises&lt;a title=&quot;#promises&quot; href=&quot;#promises&quot;&gt;&lt;/a&gt;&lt;/h1&gt;
-&lt;p&gt;&lt;em&gt;Marie Sexton&lt;/em&gt;&lt;/p&gt;
-&lt;h2 id=&quot;第十一章&quot;&gt;第十一章&lt;a title=&quot;#第十一章&quot;
-          
-        
-      
-      </description>
-      
-      
-      <comments>http://wardzhou.art/2020/02/19/PromisesChapter11/#disqus_thread</comments>
     </item>
     
   </channel>
