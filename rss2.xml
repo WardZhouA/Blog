@@ -15,8 +15,30 @@
     <atom:link href="/rss2.xml" rel="self" type="application/rss+xml"/>
     
     <description>白桦树下的人de博客</description>
-    <pubDate>Thu, 23 Apr 2020 03:03:47 GMT</pubDate>
+    <pubDate>Sat, 25 Apr 2020 13:47:16 GMT</pubDate>
     <generator>http://hexo.io/</generator>
+    
+    <item>
+      <title>拾遗 Ephemera</title>
+      <link>http://wardzhou.art/2020/04/25/ephemera/</link>
+      <guid>http://wardzhou.art/2020/04/25/ephemera/</guid>
+      <pubDate>Sat, 25 Apr 2020 13:43:18 GMT</pubDate>
+      <description>
+      
+        
+        
+          
+          
+            &lt;p&gt;&lt;img src=&quot;https://cdn.wardzhou.art/img/DSC04859.jpg&quot; alt=&quot;&quot; class=&quot;φcx&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://cdn.wardzhou.art/img/DSC04832.jpg&quot;
+          
+        
+      
+      </description>
+      
+      
+      <comments>http://wardzhou.art/2020/04/25/ephemera/#disqus_thread</comments>
+    </item>
     
     <item>
       <title>铁雨 ironRain</title>
@@ -449,29 +471,6 @@
       
       
       <comments>http://wardzhou.art/2020/02/20/PromisesChapter13/#disqus_thread</comments>
-    </item>
-    
-    <item>
-      <title>Promises第十二章</title>
-      <link>http://wardzhou.art/2020/02/19/PromisesChapter12/</link>
-      <guid>http://wardzhou.art/2020/02/19/PromisesChapter12/</guid>
-      <pubDate>Wed, 19 Feb 2020 11:53:44 GMT</pubDate>
-      <description>
-      
-        
-        
-          
-          
-            &lt;h1 id=&quot;promises&quot;&gt;Promises&lt;a title=&quot;#promises&quot; href=&quot;#promises&quot;&gt;&lt;/a&gt;&lt;/h1&gt;
-&lt;p&gt;&lt;em&gt;Marie Sexton&lt;/em&gt;&lt;/p&gt;
-&lt;h2 id=&quot;第十二章&quot;&gt;第十二章&lt;a title=&quot;#第十二章&quot;
-          
-        
-      
-      </description>
-      
-      
-      <comments>http://wardzhou.art/2020/02/19/PromisesChapter12/#disqus_thread</comments>
     </item>
     
   </channel>
