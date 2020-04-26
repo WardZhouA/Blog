@@ -15,8 +15,33 @@
     <atom:link href="/rss2.xml" rel="self" type="application/rss+xml"/>
     
     <description>白桦树下的人de博客</description>
-    <pubDate>Sat, 25 Apr 2020 13:47:16 GMT</pubDate>
+    <pubDate>Sun, 26 Apr 2020 04:34:55 GMT</pubDate>
     <generator>http://hexo.io/</generator>
+    
+    <item>
+      <title>Enounce</title>
+      <link>http://wardzhou.art/2020/04/26/enounce/</link>
+      <guid>http://wardzhou.art/2020/04/26/enounce/</guid>
+      <pubDate>Sun, 26 Apr 2020 04:33:38 GMT</pubDate>
+      <description>
+      
+        
+        
+          
+          
+            &lt;p&gt;I fall into a sleepless dream&lt;br&gt;
+Where the war ends&lt;br&gt;
+Through all the pains and hurts&lt;br&gt;
+You jump into node with me&lt;br&gt;
+Enounce the
+          
+        
+      
+      </description>
+      
+      
+      <comments>http://wardzhou.art/2020/04/26/enounce/#disqus_thread</comments>
+    </item>
     
     <item>
       <title>拾遗 Ephemera</title>
@@ -454,23 +479,6 @@
       
       
       <comments>http://wardzhou.art/2020/02/22/PromisesChapter14/#disqus_thread</comments>
-    </item>
-    
-    <item>
-      <title>Promises第十三章</title>
-      <link>http://wardzhou.art/2020/02/20/PromisesChapter13/</link>
-      <guid>http://wardzhou.art/2020/02/20/PromisesChapter13/</guid>
-      <pubDate>Thu, 20 Feb 2020 13:49:09 GMT</pubDate>
-      <description>
-      
-        &lt;p&gt;突然我的心跳开始加速，嘴唇干涩。&lt;br&gt;
-我的目光失去控制地钉在他身上。&lt;br&gt;
-这一刻，时空之里只有他。&lt;/p&gt;
-      
-      </description>
-      
-      
-      <comments>http://wardzhou.art/2020/02/20/PromisesChapter13/#disqus_thread</comments>
     </item>
     
   </channel>
