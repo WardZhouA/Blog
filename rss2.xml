@@ -15,8 +15,31 @@
     <atom:link href="/rss2.xml" rel="self" type="application/rss+xml"/>
     
     <description>白桦树下的人de博客</description>
-    <pubDate>Sun, 26 Apr 2020 04:34:55 GMT</pubDate>
+    <pubDate>Sat, 02 May 2020 07:34:21 GMT</pubDate>
     <generator>http://hexo.io/</generator>
+    
+    <item>
+      <title>Promises第十七章</title>
+      <link>http://wardzhou.art/2020/05/02/PromisesChapter17/</link>
+      <guid>http://wardzhou.art/2020/05/02/PromisesChapter17/</guid>
+      <pubDate>Sat, 02 May 2020 07:00:00 GMT</pubDate>
+      <description>
+      
+        
+        
+          
+          
+            &lt;h1 id=&quot;promises&quot;&gt;Promises&lt;a title=&quot;#promises&quot; href=&quot;#promises&quot;&gt;&lt;/a&gt;&lt;/h1&gt;
+&lt;p&gt;&lt;em&gt;Marie Sexton&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;⚠Please assure to check
+          
+        
+      
+      </description>
+      
+      
+      <comments>http://wardzhou.art/2020/05/02/PromisesChapter17/#disqus_thread</comments>
+    </item>
     
     <item>
       <title>Enounce</title>
@@ -327,29 +350,6 @@ Enounce the
       
       
       <comments>http://wardzhou.art/2020/03/23/installAxure/#disqus_thread</comments>
-    </item>
-    
-    <item>
-      <title>Promises第十七章</title>
-      <link>http://wardzhou.art/2020/03/19/PromisesChapter17/</link>
-      <guid>http://wardzhou.art/2020/03/19/PromisesChapter17/</guid>
-      <pubDate>Wed, 18 Mar 2020 16:30:38 GMT</pubDate>
-      <description>
-      
-        
-        
-          
-          
-            &lt;h1 id=&quot;promises&quot;&gt;Promises&lt;a title=&quot;#promises&quot; href=&quot;#promises&quot;&gt;&lt;/a&gt;&lt;/h1&gt;
-&lt;p&gt;&lt;em&gt;Marie Sexton&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;⚠Please assure to check
-          
-        
-      
-      </description>
-      
-      
-      <comments>http://wardzhou.art/2020/03/19/PromisesChapter17/#disqus_thread</comments>
     </item>
     
     <item>
