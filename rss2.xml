@@ -15,8 +15,31 @@
     <atom:link href="/rss2.xml" rel="self" type="application/rss+xml"/>
     
     <description>白桦树下的人de博客</description>
-    <pubDate>Sat, 02 May 2020 07:34:21 GMT</pubDate>
+    <pubDate>Sun, 03 May 2020 08:36:26 GMT</pubDate>
     <generator>http://hexo.io/</generator>
+    
+    <item>
+      <title>Promises第十八章</title>
+      <link>http://wardzhou.art/2020/05/02/PromisesChapter18/</link>
+      <guid>http://wardzhou.art/2020/05/02/PromisesChapter18/</guid>
+      <pubDate>Sat, 02 May 2020 07:38:52 GMT</pubDate>
+      <description>
+      
+        
+        
+          
+          
+            &lt;h1 id=&quot;promises&quot;&gt;Promises&lt;a title=&quot;#promises&quot; href=&quot;#promises&quot;&gt;&lt;/a&gt;&lt;/h1&gt;
+&lt;p&gt;&lt;em&gt;Marie Sexton&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;⚠Please assure to check
+          
+        
+      
+      </description>
+      
+      
+      <comments>http://wardzhou.art/2020/05/02/PromisesChapter18/#disqus_thread</comments>
+    </item>
     
     <item>
       <title>Promises第十七章</title>
@@ -463,22 +486,6 @@ Enounce the
       
       
       <comments>http://wardzhou.art/2020/02/25/PromisesChapter15/#disqus_thread</comments>
-    </item>
-    
-    <item>
-      <title>Promises第十四章</title>
-      <link>http://wardzhou.art/2020/02/22/PromisesChapter14/</link>
-      <guid>http://wardzhou.art/2020/02/22/PromisesChapter14/</guid>
-      <pubDate>Sat, 22 Feb 2020 14:50:52 GMT</pubDate>
-      <description>
-      
-        &lt;p&gt;我的眼睛睁开了一点，他的身体正在贴近，注视着我，脸上的表情是我从没见过的。&lt;br&gt;
-他的眉毛微微下垂，双眼灰暗而忧愁&lt;/p&gt;
-      
-      </description>
-      
-      
-      <comments>http://wardzhou.art/2020/02/22/PromisesChapter14/#disqus_thread</comments>
     </item>
     
   </channel>
