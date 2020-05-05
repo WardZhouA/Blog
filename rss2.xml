@@ -15,8 +15,40 @@
     <atom:link href="/rss2.xml" rel="self" type="application/rss+xml"/>
     
     <description>白桦树下的人de博客</description>
-    <pubDate>Sun, 03 May 2020 08:36:26 GMT</pubDate>
+    <pubDate>Tue, 05 May 2020 03:10:00 GMT</pubDate>
     <generator>http://hexo.io/</generator>
+    
+    <item>
+      <title>迷雾</title>
+      <link>http://wardzhou.art/2020/05/05/mist/</link>
+      <guid>http://wardzhou.art/2020/05/05/mist/</guid>
+      <pubDate>Tue, 05 May 2020 02:57:50 GMT</pubDate>
+      <description>
+      
+        
+        
+          
+          
+            &lt;p&gt;我在迷雾中前行&lt;br&gt;
+沿着那条公路&lt;br&gt;
+雾慢慢散去&lt;br&gt;
+一个孩子站在路旁&lt;br&gt;
+不知为何在哭泣&lt;br&gt;
+我听不到哭声&lt;br&gt;
+孩子的脸庞&lt;br&gt;
+痛苦而平静&lt;/p&gt;
+&lt;p&gt;迷雾又重新笼罩着一切&lt;br&gt;
+像是绷带一样&lt;br&gt;
+把孩子连同他那无声的哭泣&lt;br&gt;
+那份
+          
+        
+      
+      </description>
+      
+      
+      <comments>http://wardzhou.art/2020/05/05/mist/#disqus_thread</comments>
+    </item>
     
     <item>
       <title>Promises第十八章</title>
@@ -108,7 +140,7 @@ Enounce the
       </description>
       
       
-      <comments>http://wardzhou.art/2020/04/25/ephemera/#disqus_thread</comments>
+      
     </item>
     
     <item>
@@ -463,29 +495,6 @@ Enounce the
       
       
       <comments>http://wardzhou.art/2020/02/29/nginxServer/#disqus_thread</comments>
-    </item>
-    
-    <item>
-      <title>Promises第十五章</title>
-      <link>http://wardzhou.art/2020/02/25/PromisesChapter15/</link>
-      <guid>http://wardzhou.art/2020/02/25/PromisesChapter15/</guid>
-      <pubDate>Mon, 24 Feb 2020 16:50:46 GMT</pubDate>
-      <description>
-      
-        
-        
-          
-          
-            &lt;h1 id=&quot;promises&quot;&gt;Promises&lt;a title=&quot;#promises&quot; href=&quot;#promises&quot;&gt;&lt;/a&gt;&lt;/h1&gt;
-&lt;p&gt;&lt;em&gt;Marie Sexton&lt;/em&gt;&lt;/p&gt;
-&lt;h2 id=&quot;第十五章&quot;&gt;第十五章&lt;a title=&quot;#第十五章&quot;
-          
-        
-      
-      </description>
-      
-      
-      <comments>http://wardzhou.art/2020/02/25/PromisesChapter15/#disqus_thread</comments>
     </item>
     
   </channel>
