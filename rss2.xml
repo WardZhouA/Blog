@@ -15,8 +15,23 @@
     <atom:link href="/rss2.xml" rel="self" type="application/rss+xml"/>
     
     <description>白桦树下的人de博客</description>
-    <pubDate>Tue, 05 May 2020 03:10:00 GMT</pubDate>
+    <pubDate>Wed, 06 May 2020 16:32:49 GMT</pubDate>
     <generator>http://hexo.io/</generator>
+    
+    <item>
+      <title>别 Parting</title>
+      <link>http://wardzhou.art/2020/05/07/Parting/</link>
+      <guid>http://wardzhou.art/2020/05/07/Parting/</guid>
+      <pubDate>Wed, 06 May 2020 16:25:07 GMT</pubDate>
+      <description>
+      
+        &lt;p&gt;四月旧片 by Industar-61 50/2.8&lt;/p&gt;
+      
+      </description>
+      
+      
+      <comments>http://wardzhou.art/2020/05/07/Parting/#disqus_thread</comments>
+    </item>
     
     <item>
       <title>迷雾</title>
@@ -472,29 +487,6 @@ Enounce the
       
       
       <comments>http://wardzhou.art/2020/03/14/PromisesChapter16/#disqus_thread</comments>
-    </item>
-    
-    <item>
-      <title>CentOS下使用Nginx+Git部署hexo</title>
-      <link>http://wardzhou.art/2020/02/29/nginxServer/</link>
-      <guid>http://wardzhou.art/2020/02/29/nginxServer/</guid>
-      <pubDate>Sat, 29 Feb 2020 07:16:37 GMT</pubDate>
-      <description>
-      
-        
-        
-          
-          
-            &lt;h2 id=&quot;服务器端&quot;&gt;服务器端&lt;a title=&quot;#服务器端&quot; href=&quot;#服务器端&quot;&gt;&lt;/a&gt;&lt;/h2&gt;
-&lt;h3 id=&quot;安装依赖组件&quot;&gt;安装依赖组件&lt;a title=&quot;#安装依赖组件&quot; href=&quot;#安装依赖组件&quot;&gt;&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;&lt;code&gt;yum
-          
-        
-      
-      </description>
-      
-      
-      <comments>http://wardzhou.art/2020/02/29/nginxServer/#disqus_thread</comments>
     </item>
     
   </channel>
