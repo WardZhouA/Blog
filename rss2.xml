@@ -15,7 +15,7 @@
     <atom:link href="/rss2.xml" rel="self" type="application/rss+xml"/>
     
     <description>白桦树下的人de博客</description>
-    <pubDate>Wed, 06 May 2020 03:05:51 GMT</pubDate>
+    <pubDate>Wed, 06 May 2020 03:14:12 GMT</pubDate>
     <generator>http://hexo.io/</generator>
     
     <item>
@@ -24,6 +24,8 @@
       <guid>http://wardzhou.art/2020/05/06/noticeTest/</guid>
       <pubDate>Wed, 06 May 2020 03:05:51 GMT</pubDate>
       <description>
+      
+        &lt;p&gt;测试&lt;/p&gt;
       
       </description>
       
