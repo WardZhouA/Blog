@@ -15,8 +15,24 @@
     <atom:link href="/rss2.xml" rel="self" type="application/rss+xml"/>
     
     <description>白桦树下的人de博客</description>
-    <pubDate>Wed, 06 May 2020 16:32:49 GMT</pubDate>
+    <pubDate>Sat, 23 May 2020 08:59:48 GMT</pubDate>
     <generator>http://hexo.io/</generator>
+    
+    <item>
+      <title>轨道 Orbit</title>
+      <link>http://wardzhou.art/2020/05/23/Orbit/</link>
+      <guid>http://wardzhou.art/2020/05/23/Orbit/</guid>
+      <pubDate>Sat, 23 May 2020 08:44:41 GMT</pubDate>
+      <description>
+      
+        &lt;p&gt;You are the very dwarf planet&lt;br&gt;
+wandering around the star
+      
+      </description>
+      
+      
+      <comments>http://wardzhou.art/2020/05/23/Orbit/#disqus_thread</comments>
+    </item>
     
     <item>
       <title>别 Parting</title>
@@ -464,29 +480,6 @@ Enounce the
       
       
       <comments>http://wardzhou.art/2020/03/14/nginxSSL/#disqus_thread</comments>
-    </item>
-    
-    <item>
-      <title>Promises第十六章</title>
-      <link>http://wardzhou.art/2020/03/14/PromisesChapter16/</link>
-      <guid>http://wardzhou.art/2020/03/14/PromisesChapter16/</guid>
-      <pubDate>Fri, 13 Mar 2020 18:07:57 GMT</pubDate>
-      <description>
-      
-        
-        
-          
-          
-            &lt;h1 id=&quot;promises&quot;&gt;Promises&lt;a title=&quot;#promises&quot; href=&quot;#promises&quot;&gt;&lt;/a&gt;&lt;/h1&gt;
-&lt;p&gt;&lt;em&gt;Marie Sexton&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;⚠Please assure to check
-          
-        
-      
-      </description>
-      
-      
-      <comments>http://wardzhou.art/2020/03/14/PromisesChapter16/#disqus_thread</comments>
     </item>
     
   </channel>
