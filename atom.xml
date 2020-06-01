@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://wardzhou.art/"/>
-  <updated>2020-05-31T06:05:55.486Z</updated>
+  <updated>2020-06-01T02:21:05.261Z</updated>
   <id>http://wardzhou.art/</id>
   
   <author>
@@ -15,6 +15,30 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>玫瑰 Just Rose</title>
+    <link href="http://wardzhou.art/2020/06/01/RosePapercutting/"/>
+    <id>http://wardzhou.art/2020/06/01/RosePapercutting/</id>
+    <published>2020-06-01T02:02:04.000Z</published>
+    <updated>2020-06-01T02:21:05.261Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;探索事物的本质，发现原本的美。&lt;br&gt;
+Explore the nature of things when the beauty reveals itself.&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="剪纸" scheme="http://wardzhou.art/categories/%E5%89%AA%E7%BA%B8/"/>
+    
+    
+      <category term="剪纸" scheme="http://wardzhou.art/tags/%E5%89%AA%E7%BA%B8/"/>
+    
+      <category term="PaperCutting" scheme="http://wardzhou.art/tags/PaperCutting/"/>
+    
+  </entry>
   
   <entry>
     <title>阳光</title>
@@ -600,39 +624,6 @@ Enounce the
     
     
       <category term="诗" scheme="http://wardzhou.art/tags/%E8%AF%97/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>AdobeXD和Axure PR 9安装及汉化</title>
-    <link href="http://wardzhou.art/2020/03/23/installAxure/"/>
-    <id>http://wardzhou.art/2020/03/23/installAxure/</id>
-    <published>2020-03-23T02:07:57.000Z</published>
-    <updated>2020-03-23T02:22:01.667Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        
-        
-          &lt;h2 id=&quot;adobe-xd&quot;&gt;Adobe XD&lt;a title=&quot;#adobe-xd&quot; href=&quot;#adobe-xd&quot;&gt;&lt;/a&gt;&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;Adobe XD为免费软件，且原生支持中文，请移步官网下载&lt;/p&gt;
-&lt;p&gt;&lt;a
-        
-      
-    
-    </summary>
-    
-    
-      <category term="教程" scheme="http://wardzhou.art/categories/%E6%95%99%E7%A8%8B/"/>
-    
-    
-      <category term="Axure" scheme="http://wardzhou.art/tags/Axure/"/>
-    
-      <category term="Adobe XD" scheme="http://wardzhou.art/tags/Adobe-XD/"/>
     
   </entry>
   
