@@ -15,14 +15,14 @@
     <atom:link href="/rss2.xml" rel="self" type="application/rss+xml"/>
     
     <description>Just a Blog.</description>
-    <pubDate>Mon, 01 Jun 2020 09:17:38 GMT</pubDate>
+    <pubDate>Mon, 01 Jun 2020 09:20:15 GMT</pubDate>
     <generator>http://hexo.io/</generator>
     
     <item>
-      <title>notificationTest</title>
-      <link>http://wardzhou.art/2020/06/01/notiTest/</link>
-      <guid>http://wardzhou.art/2020/06/01/notiTest/</guid>
-      <pubDate>Mon, 01 Jun 2020 10:03:00 GMT</pubDate>
+      <title>test1</title>
+      <link>http://wardzhou.art/2020/06/01/test1/</link>
+      <guid>http://wardzhou.art/2020/06/01/test1/</guid>
+      <pubDate>Mon, 01 Jun 2020 09:20:06 GMT</pubDate>
       <description>
       
         &lt;p&gt;this is a test&lt;/p&gt;
@@ -30,7 +30,7 @@
       </description>
       
       
-      <comments>http://wardzhou.art/2020/06/01/notiTest/#disqus_thread</comments>
+      <comments>http://wardzhou.art/2020/06/01/test1/#disqus_thread</comments>
     </item>
     
     <item>
