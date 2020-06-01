@@ -15,23 +15,8 @@
     <atom:link href="/rss2.xml" rel="self" type="application/rss+xml"/>
     
     <description>Just a Blog.</description>
-    <pubDate>Mon, 01 Jun 2020 09:03:28 GMT</pubDate>
+    <pubDate>Mon, 01 Jun 2020 02:21:05 GMT</pubDate>
     <generator>http://hexo.io/</generator>
-    
-    <item>
-      <title>notificationTest</title>
-      <link>http://wardzhou.art/2020/06/01/notificationTest/</link>
-      <guid>http://wardzhou.art/2020/06/01/notificationTest/</guid>
-      <pubDate>Mon, 01 Jun 2020 09:03:00 GMT</pubDate>
-      <description>
-      
-        &lt;p&gt;this is a test&lt;/p&gt;
-      
-      </description>
-      
-      
-      <comments>http://wardzhou.art/2020/06/01/notificationTest/#disqus_thread</comments>
-    </item>
     
     <item>
       <title>玫瑰 Just Rose</title>
@@ -445,6 +430,37 @@ Enounce the
       
       
       <comments>http://wardzhou.art/2020/04/10/%E5%B1%B1%E6%A1%83/#disqus_thread</comments>
+    </item>
+    
+    <item>
+      <title>角落</title>
+      <link>http://wardzhou.art/2020/04/06/%E8%A7%92%E8%90%BD/</link>
+      <guid>http://wardzhou.art/2020/04/06/%E8%A7%92%E8%90%BD/</guid>
+      <pubDate>Mon, 06 Apr 2020 02:20:54 GMT</pubDate>
+      <description>
+      
+        
+        
+          
+          
+            &lt;p&gt;把自己放在床上&lt;br&gt;
+找一个舒适的角落&lt;br&gt;
+闭上眼&lt;/p&gt;
+&lt;p&gt;一道烛火照亮了这儿&lt;br&gt;
+那长满青草的赤丘&lt;br&gt;
+泛起昏黄的光晕&lt;br&gt;
+掺着火柴和松香的味道&lt;br&gt;
+微微刺鼻却令人醉迷&lt;/p&gt;
+&lt;p&gt;深夜的冷气不甘地褪去&lt;br&gt;
+留下的只是那一处&lt;br&gt;
+松软
+          
+        
+      
+      </description>
+      
+      
+      <comments>http://wardzhou.art/2020/04/06/%E8%A7%92%E8%90%BD/#disqus_thread</comments>
     </item>
     
   </channel>
