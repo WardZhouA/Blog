@@ -15,8 +15,24 @@
     <atom:link href="/rss2.xml" rel="self" type="application/rss+xml"/>
     
     <description>Just a Blog.</description>
-    <pubDate>Mon, 01 Jun 2020 02:21:05 GMT</pubDate>
+    <pubDate>Wed, 03 Jun 2020 04:03:22 GMT</pubDate>
     <generator>http://hexo.io/</generator>
+    
+    <item>
+      <title>同一 Identity</title>
+      <link>http://wardzhou.art/2020/06/03/Identity/</link>
+      <guid>http://wardzhou.art/2020/06/03/Identity/</guid>
+      <pubDate>Wed, 03 Jun 2020 04:11:01 GMT</pubDate>
+      <description>
+      
+        &lt;p&gt;&lt;img src=&quot;https://cdn.wardzhou.art/img/Identity.jpg&quot; alt=&quot;&quot;&gt;&lt;br&gt;
+We are the same inside.&lt;/p&gt;
+      
+      </description>
+      
+      
+      <comments>http://wardzhou.art/2020/06/03/Identity/#disqus_thread</comments>
+    </item>
     
     <item>
       <title>玫瑰 Just Rose</title>
@@ -440,31 +456,6 @@ Enounce the
       
       
       <comments>http://wardzhou.art/2020/04/06/%E8%A7%92%E8%90%BD/#disqus_thread</comments>
-    </item>
-    
-    <item>
-      <title>AdobeXD和Axure PR 9安装及汉化</title>
-      <link>http://wardzhou.art/2020/03/23/installAxure/</link>
-      <guid>http://wardzhou.art/2020/03/23/installAxure/</guid>
-      <pubDate>Mon, 23 Mar 2020 02:07:57 GMT</pubDate>
-      <description>
-      
-        
-        
-          
-          
-            &lt;h2 id=&quot;adobe-xd&quot;&gt;Adobe XD&lt;a title=&quot;#adobe-xd&quot; href=&quot;#adobe-xd&quot;&gt;&lt;/a&gt;&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;Adobe XD为免费软件，且原生支持中文，请移步官网下载&lt;/p&gt;
-&lt;p&gt;&lt;a
-          
-        
-      
-      </description>
-      
-      
-      <comments>http://wardzhou.art/2020/03/23/installAxure/#disqus_thread</comments>
     </item>
     
   </channel>
