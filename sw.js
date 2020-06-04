@@ -4,7 +4,7 @@ workbox.setConfig({ modulePathPrefix: 'https://g.alicdn.com/kg/workbox/3.6.3/' }
 self.addEventListener('install', function (event) {
   event.waitUntil(
     caches.keys().then(function (names) {
-      var validSets = ["is-sw-9412a0","is-html-9412a0","is-jsdelivr-9412a0","is-gtm-9412a0","is-gravatar-9412a0","is-theme-9412a0","is-cdn-9412a0","is-json-9412a0","is-custom-9412a0","is-img-9412a0"];
+      var validSets = ["is-sw-11a1dd","is-html-11a1dd","is-jsdelivr-11a1dd","is-gtm-11a1dd","is-gravatar-11a1dd","is-theme-11a1dd","is-cdn-11a1dd","is-json-11a1dd","is-custom-11a1dd","is-img-11a1dd"];
       return Promise.all(
         names
           .filter(function (name) { return !~validSets.indexOf(name); })
@@ -18,31 +18,31 @@ self.addEventListener('install', function (event) {
 });
 
 workbox.routing.registerRoute(new RegExp('sw\\.js'), workbox.strategies.networkOnly({
-  cacheName: 'is-sw-9412a0',
+  cacheName: 'is-sw-11a1dd',
 }));
 workbox.routing.registerRoute(new RegExp('https://cdn\\.jsdelivr\\.net'), workbox.strategies.staleWhileRevalidate({
-  cacheName: 'is-jsdelivr-9412a0',
+  cacheName: 'is-jsdelivr-11a1dd',
 }));
 workbox.routing.registerRoute(new RegExp('https://www\\.googletagmanager\\.com\?id=.*'), workbox.strategies.staleWhileRevalidate({
-  cacheName: 'is-gtm-9412a0',
+  cacheName: 'is-gtm-11a1dd',
 }));
 workbox.routing.registerRoute(new RegExp('https://www\\.gravatar\\.com'), workbox.strategies.staleWhileRevalidate({
-  cacheName: 'is-gravatar-9412a0',
+  cacheName: 'is-gravatar-11a1dd',
 }));
 workbox.routing.registerRoute(new RegExp('/.*\\.(?:js|css|woff2|png|jpg|gif)$'), workbox.strategies.staleWhileRevalidate({
-  cacheName: 'is-theme-9412a0',
+  cacheName: 'is-theme-11a1dd',
 }));
 workbox.routing.registerRoute(new RegExp('https://cdn\\.wardzhou\\.art'), workbox.strategies.staleWhileRevalidate({
-  cacheName: 'is-cdn-9412a0',
+  cacheName: 'is-cdn-11a1dd',
 }));
 workbox.routing.registerRoute(new RegExp('your_data_prefix/.*\\.json'), workbox.strategies.cacheFirst({
-  cacheName: 'is-json-9412a0',
+  cacheName: 'is-json-11a1dd',
 }));
 workbox.routing.registerRoute(new RegExp('/custom/.*'), workbox.strategies.staleWhileRevalidate({
-  cacheName: 'is-custom-9412a0',
+  cacheName: 'is-custom-11a1dd',
 }));
 workbox.routing.registerRoute(new RegExp('/img/.*'), workbox.strategies.staleWhileRevalidate({
-  cacheName: 'is-img-9412a0',
+  cacheName: 'is-img-11a1dd',
 }));
 
 workbox.routing.registerRoute(new RegExp('/.*(:?/[^\\.]*/?)$'), function(context) {
