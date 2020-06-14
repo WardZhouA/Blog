@@ -15,8 +15,24 @@
     <atom:link href="/rss2.xml" rel="self" type="application/rss+xml"/>
     
     <description>Just a Blog.</description>
-    <pubDate>Wed, 10 Jun 2020 15:48:44 GMT</pubDate>
+    <pubDate>Sun, 14 Jun 2020 09:35:34 GMT</pubDate>
     <generator>http://hexo.io/</generator>
+    
+    <item>
+      <title>Piano Programme for ACC</title>
+      <link>http://wardzhou.art/2020/06/14/PianoProgramme/</link>
+      <guid>http://wardzhou.art/2020/06/14/PianoProgramme/</guid>
+      <pubDate>Sun, 14 Jun 2020 09:27:04 GMT</pubDate>
+      <description>
+      
+        &lt;p&gt;Inspired by Zeiss&lt;br&gt;
+Design &amp;amp; Photograph by Birch&lt;/p&gt;
+      
+      </description>
+      
+      
+      <comments>http://wardzhou.art/2020/06/14/PianoProgramme/#disqus_thread</comments>
+    </item>
     
     <item>
       <title>How to acquire Tweets elegantly using R</title>
@@ -426,25 +442,6 @@ Enounce the
       
       
       <comments>http://wardzhou.art/2020/04/14/wordcount/#disqus_thread</comments>
-    </item>
-    
-    <item>
-      <title>山桃 Wild Peach</title>
-      <link>http://wardzhou.art/2020/04/10/%E5%B1%B1%E6%A1%83/</link>
-      <guid>http://wardzhou.art/2020/04/10/%E5%B1%B1%E6%A1%83/</guid>
-      <pubDate>Fri, 10 Apr 2020 11:23:39 GMT</pubDate>
-      <description>
-      
-        &lt;blockquote&gt;
-&lt;p&gt;山桃红花满上头,蜀江春水拍山流。&lt;br&gt;
-花红易衰似郎意,水流无限似侬愁。&lt;/p&gt;
-&lt;p&gt;——&lt;cite&gt;《竹枝词》刘禹锡&lt;/cite&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-      
-      </description>
-      
-      
-      <comments>http://wardzhou.art/2020/04/10/%E5%B1%B1%E6%A1%83/#disqus_thread</comments>
     </item>
     
   </channel>

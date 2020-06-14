@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://wardzhou.art/"/>
-  <updated>2020-06-10T15:48:44.303Z</updated>
+  <updated>2020-06-14T09:35:34.151Z</updated>
   <id>http://wardzhou.art/</id>
   
   <author>
@@ -15,6 +15,34 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Piano Programme for ACC</title>
+    <link href="http://wardzhou.art/2020/06/14/PianoProgramme/"/>
+    <id>http://wardzhou.art/2020/06/14/PianoProgramme/</id>
+    <published>2020-06-14T09:27:04.000Z</published>
+    <updated>2020-06-14T09:35:34.151Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;Inspired by Zeiss&lt;br&gt;
+Design &amp;amp; Photograph by Birch&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="设计" scheme="http://wardzhou.art/categories/%E8%AE%BE%E8%AE%A1/"/>
+    
+    
+      <category term="设计" scheme="http://wardzhou.art/tags/%E8%AE%BE%E8%AE%A1/"/>
+    
+      <category term="Design" scheme="http://wardzhou.art/tags/Design/"/>
+    
+      <category term="摄影" scheme="http://wardzhou.art/tags/%E6%91%84%E5%BD%B1/"/>
+    
+      <category term="静物" scheme="http://wardzhou.art/tags/%E9%9D%99%E7%89%A9/"/>
+    
+  </entry>
   
   <entry>
     <title>How to acquire Tweets elegantly using R</title>
@@ -589,35 +617,6 @@ Enounce the
       <category term="Hexo" scheme="http://wardzhou.art/tags/Hexo/"/>
     
       <category term="阅读时间" scheme="http://wardzhou.art/tags/%E9%98%85%E8%AF%BB%E6%97%B6%E9%97%B4/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>山桃 Wild Peach</title>
-    <link href="http://wardzhou.art/2020/04/10/%E5%B1%B1%E6%A1%83/"/>
-    <id>http://wardzhou.art/2020/04/10/%E5%B1%B1%E6%A1%83/</id>
-    <published>2020-04-10T11:23:39.000Z</published>
-    <updated>2020-04-14T11:07:07.996Z</updated>
-    
-    <summary type="html">
-    
-      &lt;blockquote&gt;
-&lt;p&gt;山桃红花满上头,蜀江春水拍山流。&lt;br&gt;
-花红易衰似郎意,水流无限似侬愁。&lt;/p&gt;
-&lt;p&gt;——&lt;cite&gt;《竹枝词》刘禹锡&lt;/cite&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-    
-    </summary>
-    
-    
-      <category term="摄影" scheme="http://wardzhou.art/categories/%E6%91%84%E5%BD%B1/"/>
-    
-    
-      <category term="摄影" scheme="http://wardzhou.art/tags/%E6%91%84%E5%BD%B1/"/>
-    
-      <category term="自然" scheme="http://wardzhou.art/tags/%E8%87%AA%E7%84%B6/"/>
-    
-      <category term="山桃" scheme="http://wardzhou.art/tags/%E5%B1%B1%E6%A1%83/"/>
     
   </entry>
   
