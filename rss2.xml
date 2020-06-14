@@ -15,8 +15,23 @@
     <atom:link href="/rss2.xml" rel="self" type="application/rss+xml"/>
     
     <description>Just a Blog.</description>
-    <pubDate>Sun, 14 Jun 2020 09:35:34 GMT</pubDate>
+    <pubDate>Sun, 14 Jun 2020 09:58:58 GMT</pubDate>
     <generator>http://hexo.io/</generator>
+    
+    <item>
+      <title>影与光 Shadow&amp;Light</title>
+      <link>http://wardzhou.art/2020/06/14/Shadow-Light/</link>
+      <guid>http://wardzhou.art/2020/06/14/Shadow-Light/</guid>
+      <pubDate>Sun, 14 Jun 2020 09:46:10 GMT</pubDate>
+      <description>
+      
+        &lt;p&gt;A Collection&lt;/p&gt;
+      
+      </description>
+      
+      
+      <comments>http://wardzhou.art/2020/06/14/Shadow-Light/#disqus_thread</comments>
+    </item>
     
     <item>
       <title>Piano Programme for ACC</title>
@@ -418,30 +433,6 @@ Enounce the
       
       
       <comments>http://wardzhou.art/2020/04/14/deepSpring/#disqus_thread</comments>
-    </item>
-    
-    <item>
-      <title>Add readable time for theme inside</title>
-      <link>http://wardzhou.art/2020/04/14/wordcount/</link>
-      <guid>http://wardzhou.art/2020/04/14/wordcount/</guid>
-      <pubDate>Mon, 13 Apr 2020 16:09:24 GMT</pubDate>
-      <description>
-      
-        
-        
-          
-          
-            &lt;h2 id=&quot;preview&quot;&gt;Preview&lt;a title=&quot;#preview&quot; href=&quot;#preview&quot;&gt;&lt;/a&gt;&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Normal style&lt;/strong&gt;&lt;br&gt;
-&lt;img
-          
-        
-      
-      </description>
-      
-      
-      <comments>http://wardzhou.art/2020/04/14/wordcount/#disqus_thread</comments>
     </item>
     
   </channel>

@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://wardzhou.art/"/>
-  <updated>2020-06-14T09:35:34.151Z</updated>
+  <updated>2020-06-14T09:58:58.873Z</updated>
   <id>http://wardzhou.art/</id>
   
   <author>
@@ -17,11 +17,32 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>影与光 Shadow&amp;Light</title>
+    <link href="http://wardzhou.art/2020/06/14/Shadow-Light/"/>
+    <id>http://wardzhou.art/2020/06/14/Shadow-Light/</id>
+    <published>2020-06-14T09:46:10.000Z</published>
+    <updated>2020-06-14T09:58:58.873Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;A Collection&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="摄影" scheme="http://wardzhou.art/categories/%E6%91%84%E5%BD%B1/"/>
+    
+    
+      <category term="摄影" scheme="http://wardzhou.art/tags/%E6%91%84%E5%BD%B1/"/>
+    
+  </entry>
+  
+  <entry>
     <title>Piano Programme for ACC</title>
     <link href="http://wardzhou.art/2020/06/14/PianoProgramme/"/>
     <id>http://wardzhou.art/2020/06/14/PianoProgramme/</id>
     <published>2020-06-14T09:27:04.000Z</published>
-    <updated>2020-06-14T09:35:34.151Z</updated>
+    <updated>2020-06-14T09:59:31.302Z</updated>
     
     <summary type="html">
     
@@ -583,40 +604,6 @@ Enounce the
       <category term="自然" scheme="http://wardzhou.art/tags/%E8%87%AA%E7%84%B6/"/>
     
       <category term="榆叶梅" scheme="http://wardzhou.art/tags/%E6%A6%86%E5%8F%B6%E6%A2%85/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Add readable time for theme inside</title>
-    <link href="http://wardzhou.art/2020/04/14/wordcount/"/>
-    <id>http://wardzhou.art/2020/04/14/wordcount/</id>
-    <published>2020-04-13T16:09:24.000Z</published>
-    <updated>2020-04-14T15:34:20.237Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        
-        
-          &lt;h2 id=&quot;preview&quot;&gt;Preview&lt;a title=&quot;#preview&quot; href=&quot;#preview&quot;&gt;&lt;/a&gt;&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Normal style&lt;/strong&gt;&lt;br&gt;
-&lt;img
-        
-      
-    
-    </summary>
-    
-    
-      <category term="教程" scheme="http://wardzhou.art/categories/%E6%95%99%E7%A8%8B/"/>
-    
-    
-      <category term="前端" scheme="http://wardzhou.art/tags/%E5%89%8D%E7%AB%AF/"/>
-    
-      <category term="Hexo" scheme="http://wardzhou.art/tags/Hexo/"/>
-    
-      <category term="阅读时间" scheme="http://wardzhou.art/tags/%E9%98%85%E8%AF%BB%E6%97%B6%E9%97%B4/"/>
     
   </entry>
   
