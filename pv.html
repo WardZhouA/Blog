@@ -1,0 +1,48 @@
+<script>if (!/^(127|172|192|local)/.test(location.host))
+    new Promise(resolve => {
+      if (window.__inside__.ip) return resolve(window.__inside__.ip);
+      else
+        fetch('https://api.ipify.org?format=json')
+          .then(res => res.json())
+          .then(res => {
+            window.__inside__.ip = res;
+            resolve(res);
+          });
+    }).then(res => {
+      fetch('https://api.leancloud.cn/1.1/classes/log', {
+        method: 'post',
+        headers: {
+          'X-AVOSCloud-Application-Id': 'QLCzHy5bTsfLQe0o5Q4KUtNI-gzGzoHsz',
+          'X-AVOSCloud-Application-Key': 'EUElGMP580rwPe6ulVMa4CVF',
+          'Content-Type': 'application/json',
+        },
+        body: JSON.stringify({
+          slug: location.pathname,
+          ip: res.ip,
+          ua: navigator.userAgent,
+          host: location.host,
+        }),
+      });
+    });
+
+  fetch(`https://api.leancloud.cn/1.1/classes/log?limit=0&count=1&where={"slug":"${location.pathname}"}`, {
+    method: 'get',
+    headers: {
+      'X-AVOSCloud-Application-Id': 'QLCzHy5bTsfLQe0o5Q4KUtNI-gzGzoHsz',
+      'X-AVOSCloud-Application-Key': 'EUElGMP580rwPe6ulVMa4CVF',
+      'Content-Type': 'application/json',
+    },
+  })
+    .then(res => res.json())
+    .then(i => {
+      document.dispatchEvent(
+        new CustomEvent('inside', {
+          detail: {
+            type: 'pv',
+            data: {
+              [location.pathname.substring(1)]: i.count
+            },
+          },
+        })
+      );
+    });</script>

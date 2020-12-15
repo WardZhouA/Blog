@@ -1,0 +1,35 @@
+<a class="φca φs φq" id="loadcom" onclick="loadvaline(); return false;"><span>加载评论💬<br>Load Comments</span></a>
+<div id="vcomment"></div>
+<div id="popupTrigger" data-popup-target="example" style="width:40px;height:40px;margin-top:30.1px">
+    <a id="qrTrager">
+        <img src="/img/qr.png" alt="QrButton" height="40px" width="40px" />
+    </a>
+</div>
+<div class="popup" data-popup-id="example" tabindex="-1" role="dialog">
+    <div class="popup__container">
+        <div class="popup__content">
+            <div id="qrcode" style="width:100px; height:100px; margin:0 auto;"></div>
+        </div>
+    </div>
+</div>
+<script>
+            function loadvaline(){
+                $('body').append($("<script>").attr({
+                    type: "text/javascript",
+                    src: "custom/Valine.min.js"
+                }))
+                $("#loadcom").hide();
+                $("[class='vpower txt-right']").attr("style", "display:none;");
+            }
+</script>
+<script>
+    var qrcode = new QRCode(document.getElementById("qrcode"),
+        {
+            width: 100,
+            height: 100
+        });
+        qrcode.makeCode(window.location.href);
+</script>
+<script>
+        $('#popupTrigger').popup();
+</script>

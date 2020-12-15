@@ -1,0 +1,513 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>白桦 Birch</title>
+  <icon>http://wardzhou.art/img/icon-194x194.png</icon>
+  <subtitle>所见即所想，所写亦所得</subtitle>
+  <link href="http://wardzhou.art/atom.xml" rel="self"/>
+  
+  <link href="http://wardzhou.art/"/>
+  <updated>2020-12-14T15:10:11.493Z</updated>
+  <id>http://wardzhou.art/</id>
+  
+  <author>
+    <name>白桦 Birch</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>平流层的汪洋</title>
+    <link href="http://wardzhou.art/2020/11/29/OceanicStratosphere/"/>
+    <id>http://wardzhou.art/2020/11/29/OceanicStratosphere/</id>
+    <published>2020-11-28T17:45:59.000Z</published>
+    <updated>2020-12-14T15:10:11.493Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;平流层的汪洋&lt;br&gt;
+四方而行</summary>
+    
+    
+    
+    <category term="诗" scheme="http://wardzhou.art/categories/%E8%AF%97/"/>
+    
+    
+    <category term="诗" scheme="http://wardzhou.art/tags/%E8%AF%97/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>雨后</title>
+    <link href="http://wardzhou.art/2020/10/25/AfterRain/"/>
+    <id>http://wardzhou.art/2020/10/25/AfterRain/</id>
+    <published>2020-10-25T15:13:05.000Z</published>
+    <updated>2020-12-14T15:10:11.492Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;你让我重新记起&lt;br&gt;
+本不属于这个季节的事物&lt;br&gt;
+消融的河水&lt;br&gt;
+四月的淡樱&lt;br&gt;
+清冽而香甜的&lt;br&gt;
+焦糖、布丁、薄荷&lt;br&gt;
+还有早春时&lt;br&gt;
+不愿放下的火炉&lt;/p&gt;
+&lt;p&gt;田野里&lt;br&gt;
+热潮伴着冷霜&lt;br&gt;
+翩然起舞&lt;br&gt;
+雨打醒了梦中的人&lt;br&gt;</summary>
+        
+      
+    
+    
+    
+    <category term="诗" scheme="http://wardzhou.art/categories/%E8%AF%97/"/>
+    
+    
+    <category term="诗" scheme="http://wardzhou.art/tags/%E8%AF%97/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Eve</title>
+    <link href="http://wardzhou.art/2020/10/14/Eve/"/>
+    <id>http://wardzhou.art/2020/10/14/Eve/</id>
+    <published>2020-10-13T17:20:10.000Z</published>
+    <updated>2020-12-14T15:10:11.493Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;It is the moment and period when&lt;br&gt;
+the curtain falls&lt;br&gt;
+the flag rises&lt;br&gt;
+The very one&lt;br&gt;
+goes pass your vision while&lt;br&gt;
+remains</summary>
+        
+      
+    
+    
+    
+    <category term="诗" scheme="http://wardzhou.art/categories/%E8%AF%97/"/>
+    
+    
+    <category term="诗" scheme="http://wardzhou.art/tags/%E8%AF%97/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Tuuuuuuber是真的吗？</title>
+    <link href="http://wardzhou.art/2020/10/09/FCTuber/"/>
+    <id>http://wardzhou.art/2020/10/09/FCTuber/</id>
+    <published>2020-10-09T13:17:37.000Z</published>
+    <updated>2020-12-14T15:10:11.493Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;is-cipher placeholder=&quot;逆风如解意&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="事实核查" scheme="http://wardzhou.art/categories/%E4%BA%8B%E5%AE%9E%E6%A0%B8%E6%9F%A5/"/>
+    
+    
+    <category term="事实核查" scheme="http://wardzhou.art/tags/%E4%BA%8B%E5%AE%9E%E6%A0%B8%E6%9F%A5/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>喵~ Meow~</title>
+    <link href="http://wardzhou.art/2020/09/26/meow/"/>
+    <id>http://wardzhou.art/2020/09/26/meow/</id>
+    <published>2020-09-26T10:13:34.000Z</published>
+    <updated>2020-12-14T15:10:11.497Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;天桥下的小奶猫</summary>
+    
+    
+    
+    <category term="摄影" scheme="http://wardzhou.art/categories/%E6%91%84%E5%BD%B1/"/>
+    
+    
+    <category term="猫" scheme="http://wardzhou.art/tags/%E7%8C%AB/"/>
+    
+    <category term="摄影" scheme="http://wardzhou.art/tags/%E6%91%84%E5%BD%B1/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Linux学习笔记#2：docker安装和使用</title>
+    <link href="http://wardzhou.art/2020/09/21/LinuxNote2/"/>
+    <id>http://wardzhou.art/2020/09/21/LinuxNote2/</id>
+    <published>2020-09-21T07:28:03.000Z</published>
+    <updated>2020-12-14T15:10:11.493Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;为什么选择docker？&quot;&gt;为什么选择Docker？&lt;a title=&quot;#为什么选择docker？&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="教程" scheme="http://wardzhou.art/categories/%E6%95%99%E7%A8%8B/"/>
+    
+    
+    <category term="Linux" scheme="http://wardzhou.art/tags/Linux/"/>
+    
+    <category term="Docker" scheme="http://wardzhou.art/tags/Docker/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Linux学习笔记#1：复制文件cp、docker cp与scp</title>
+    <link href="http://wardzhou.art/2020/09/20/LinuxNote1/"/>
+    <id>http://wardzhou.art/2020/09/20/LinuxNote1/</id>
+    <published>2020-09-19T23:28:03.000Z</published>
+    <updated>2020-12-14T15:10:11.493Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;可能也许大概小白就要从头学吧QAQ</summary>
+    
+    
+    
+    <category term="教程" scheme="http://wardzhou.art/categories/%E6%95%99%E7%A8%8B/"/>
+    
+    
+    <category term="Linux" scheme="http://wardzhou.art/tags/Linux/"/>
+    
+    <category term="Docker" scheme="http://wardzhou.art/tags/Docker/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Turn</title>
+    <link href="http://wardzhou.art/2020/09/01/Turn/"/>
+    <id>http://wardzhou.art/2020/09/01/Turn/</id>
+    <published>2020-08-31T17:30:00.000Z</published>
+    <updated>2020-12-15T18:37:42.187Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;It’s the dark when I sleep&lt;br&gt;
+Then you come with dim light</summary>
+    
+    
+    
+    <category term="诗" scheme="http://wardzhou.art/categories/%E8%AF%97/"/>
+    
+    
+    <category term="诗" scheme="http://wardzhou.art/tags/%E8%AF%97/"/>
+    
+    <category term="Poetry" scheme="http://wardzhou.art/tags/Poetry/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Cuddle</title>
+    <link href="http://wardzhou.art/2020/08/21/Cuddle/"/>
+    <id>http://wardzhou.art/2020/08/21/Cuddle/</id>
+    <published>2020-08-21T13:59:04.000Z</published>
+    <updated>2020-12-14T15:10:11.492Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;挥之不去的画面，在我每次闭上眼睛的时候浮现…</summary>
+    
+    
+    
+    <category term="设计" scheme="http://wardzhou.art/categories/%E8%AE%BE%E8%AE%A1/"/>
+    
+    
+    <category term="设计" scheme="http://wardzhou.art/tags/%E8%AE%BE%E8%AE%A1/"/>
+    
+    <category term="Design" scheme="http://wardzhou.art/tags/Design/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Retrospection</title>
+    <link href="http://wardzhou.art/2020/08/14/Retrospection/"/>
+    <id>http://wardzhou.art/2020/08/14/Retrospection/</id>
+    <published>2020-08-13T16:02:49.000Z</published>
+    <updated>2020-12-14T15:10:11.495Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;It is the day when &lt;em&gt;Agent of SHIELD&lt;/em&gt; came to an end. Suddenly it came to me that it has been 7 years since the first episode. And</summary>
+        
+      
+    
+    
+    
+    <category term="随笔" scheme="http://wardzhou.art/categories/%E9%9A%8F%E7%AC%94/"/>
+    
+    
+    <category term="随笔" scheme="http://wardzhou.art/tags/%E9%9A%8F%E7%AC%94/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>走掉的花店</title>
+    <link href="http://wardzhou.art/2020/08/07/GoneTheFlowerShop/"/>
+    <id>http://wardzhou.art/2020/08/07/GoneTheFlowerShop/</id>
+    <published>2020-08-07T14:00:14.000Z</published>
+    <updated>2020-12-14T15:10:11.493Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;附近新开了家花店&lt;br&gt;
+很小的一间屋子&lt;br&gt;
+装不下的花溢到门前&lt;/p&gt;
+&lt;p&gt;每天路过都会瞥一眼&lt;br&gt;
+花店里只有一个姑娘&lt;br&gt;
+有时是在打理着花&lt;br&gt;
+有时只是坐在那望着外面&lt;/p&gt;
+&lt;p&gt;我想，什么时候会收到一束&lt;br&gt;
+从这家店里买来的花呢？&lt;/p&gt;
+&lt;p</summary>
+        
+      
+    
+    
+    
+    <category term="诗" scheme="http://wardzhou.art/categories/%E8%AF%97/"/>
+    
+    
+    <category term="诗" scheme="http://wardzhou.art/tags/%E8%AF%97/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Door</title>
+    <link href="http://wardzhou.art/2020/08/01/Door/"/>
+    <id>http://wardzhou.art/2020/08/01/Door/</id>
+    <published>2020-07-31T16:14:52.000Z</published>
+    <updated>2020-12-14T15:10:11.492Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;&lt;em&gt;Angosciso&lt;/em&gt;</summary>
+    
+    
+    
+    <category term="设计" scheme="http://wardzhou.art/categories/%E8%AE%BE%E8%AE%A1/"/>
+    
+    
+    <category term="Paddy" scheme="http://wardzhou.art/tags/Paddy/"/>
+    
+    <category term="设计" scheme="http://wardzhou.art/tags/%E8%AE%BE%E8%AE%A1/"/>
+    
+    <category term="Design" scheme="http://wardzhou.art/tags/Design/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>荒寂 Lonesome</title>
+    <link href="http://wardzhou.art/2020/07/31/Lonesome/"/>
+    <id>http://wardzhou.art/2020/07/31/Lonesome/</id>
+    <published>2020-07-31T15:27:21.000Z</published>
+    <updated>2020-12-14T15:10:11.493Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;茫茫人生，好像荒野。</summary>
+    
+    
+    
+    <category term="摄影" scheme="http://wardzhou.art/categories/%E6%91%84%E5%BD%B1/"/>
+    
+    
+    <category term="摄影" scheme="http://wardzhou.art/tags/%E6%91%84%E5%BD%B1/"/>
+    
+    <category term="纪实摄影" scheme="http://wardzhou.art/tags/%E7%BA%AA%E5%AE%9E%E6%91%84%E5%BD%B1/"/>
+    
+    <category term="Documentary Photography" scheme="http://wardzhou.art/tags/Documentary-Photography/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Burdensome</title>
+    <link href="http://wardzhou.art/2020/07/28/Burdensome/"/>
+    <id>http://wardzhou.art/2020/07/28/Burdensome/</id>
+    <published>2020-07-28T05:55:59.000Z</published>
+    <updated>2020-12-14T15:10:11.492Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;&lt;em&gt;Scherzo&lt;/em&gt;</summary>
+    
+    
+    
+    <category term="设计" scheme="http://wardzhou.art/categories/%E8%AE%BE%E8%AE%A1/"/>
+    
+    
+    <category term="Paddy" scheme="http://wardzhou.art/tags/Paddy/"/>
+    
+    <category term="设计" scheme="http://wardzhou.art/tags/%E8%AE%BE%E8%AE%A1/"/>
+    
+    <category term="Design" scheme="http://wardzhou.art/tags/Design/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>各花 TheFlower</title>
+    <link href="http://wardzhou.art/2020/07/26/TheFlower/"/>
+    <id>http://wardzhou.art/2020/07/26/TheFlower/</id>
+    <published>2020-07-26T07:13:54.000Z</published>
+    <updated>2020-12-14T15:10:11.496Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;初识时&lt;br&gt;
+一树的合欢火一般烧着&lt;br&gt;
+一阵雨过&lt;br&gt;
+艳得更胜从前&lt;/p&gt;
+&lt;p&gt;于是他下了一个月的雨&lt;br&gt;
+终于这花&lt;br&gt;
+都如烟消散&lt;br&gt;
+尽数成泥&lt;/p&gt;
+&lt;p&gt;我想桂花是否能挺过这雨&lt;br&gt;
+但已无从得知&lt;br&gt;
+楼下的桂树早已被拔去&lt;br&gt;
+只剩下</summary>
+        
+      
+    
+    
+    
+    <category term="诗" scheme="http://wardzhou.art/categories/%E8%AF%97/"/>
+    
+    
+    <category term="诗" scheme="http://wardzhou.art/tags/%E8%AF%97/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>第三幕 冰原的故事</title>
+    <link href="http://wardzhou.art/2020/07/18/StoryOfIceField/"/>
+    <id>http://wardzhou.art/2020/07/18/StoryOfIceField/</id>
+    <published>2020-07-18T03:45:04.000Z</published>
+    <updated>2020-12-14T15:10:11.496Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;&lt;em&gt;柔板&lt;/em&gt;</summary>
+    
+    
+    
+    <category term="诗" scheme="http://wardzhou.art/categories/%E8%AF%97/"/>
+    
+    
+    <category term="诗" scheme="http://wardzhou.art/tags/%E8%AF%97/"/>
+    
+    <category term="Paddy" scheme="http://wardzhou.art/tags/Paddy/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Cat!Cat!Cat!</title>
+    <link href="http://wardzhou.art/2020/07/12/CatCatCat/"/>
+    <id>http://wardzhou.art/2020/07/12/CatCatCat/</id>
+    <published>2020-07-12T14:50:36.000Z</published>
+    <updated>2020-12-14T15:10:11.492Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;Best of the Cat Photo I shot</summary>
+    
+    
+    
+    <category term="摄影" scheme="http://wardzhou.art/categories/%E6%91%84%E5%BD%B1/"/>
+    
+    
+    <category term="猫" scheme="http://wardzhou.art/tags/%E7%8C%AB/"/>
+    
+    <category term="Cat" scheme="http://wardzhou.art/tags/Cat/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Delicacy</title>
+    <link href="http://wardzhou.art/2020/07/12/Delicacy/"/>
+    <id>http://wardzhou.art/2020/07/12/Delicacy/</id>
+    <published>2020-07-12T00:41:31.000Z</published>
+    <updated>2020-12-14T15:10:11.492Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;A Tango</summary>
+    
+    
+    
+    <category term="设计" scheme="http://wardzhou.art/categories/%E8%AE%BE%E8%AE%A1/"/>
+    
+    
+    <category term="Paddy" scheme="http://wardzhou.art/tags/Paddy/"/>
+    
+    <category term="设计" scheme="http://wardzhou.art/tags/%E8%AE%BE%E8%AE%A1/"/>
+    
+    <category term="Design" scheme="http://wardzhou.art/tags/Design/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>第二幕 雨</title>
+    <link href="http://wardzhou.art/2020/07/06/Rain/"/>
+    <id>http://wardzhou.art/2020/07/06/Rain/</id>
+    <published>2020-07-06T04:36:39.000Z</published>
+    <updated>2020-12-14T15:10:11.495Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;&lt;em&gt;急板&lt;/em&gt;&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="诗" scheme="http://wardzhou.art/categories/%E8%AF%97/"/>
+    
+    
+    <category term="诗" scheme="http://wardzhou.art/tags/%E8%AF%97/"/>
+    
+    <category term="Paddy" scheme="http://wardzhou.art/tags/Paddy/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Act I Cloudless Day</title>
+    <link href="http://wardzhou.art/2020/07/06/CloudlessDay/"/>
+    <id>http://wardzhou.art/2020/07/06/CloudlessDay/</id>
+    <published>2020-07-05T16:41:11.000Z</published>
+    <updated>2020-12-14T15:10:11.492Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;&lt;em&gt;Andante&lt;/em&gt;&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="诗" scheme="http://wardzhou.art/categories/%E8%AF%97/"/>
+    
+    
+    <category term="诗" scheme="http://wardzhou.art/tags/%E8%AF%97/"/>
+    
+    <category term="Paddy" scheme="http://wardzhou.art/tags/Paddy/"/>
+    
+  </entry>
+  
+</feed>
