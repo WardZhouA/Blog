@@ -6,7 +6,7 @@
   <link href="http://wardzhou.art/atom.xml" rel="self"/>
   
   <link href="http://wardzhou.art/"/>
-  <updated>2020-12-14T15:10:11.493Z</updated>
+  <updated>2020-12-30T16:52:20.048Z</updated>
   <id>http://wardzhou.art/</id>
   
   <author>
@@ -15,6 +15,46 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Rewind 岁末旧片</title>
+    <link href="http://wardzhou.art/2020/12/31/Rewind/"/>
+    <id>http://wardzhou.art/2020/12/31/Rewind/</id>
+    <published>2020-12-30T16:38:46.000Z</published>
+    <updated>2020-12-30T16:52:20.048Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;最近两个月拍的东西，清空库存发一发</summary>
+    
+    
+    
+    <category term="摄影" scheme="http://wardzhou.art/categories/%E6%91%84%E5%BD%B1/"/>
+    
+    
+    <category term="摄影" scheme="http://wardzhou.art/tags/%E6%91%84%E5%BD%B1/"/>
+    
+    <category term="纪实摄影" scheme="http://wardzhou.art/tags/%E7%BA%AA%E5%AE%9E%E6%91%84%E5%BD%B1/"/>
+    
+    <category term="北外滩" scheme="http://wardzhou.art/tags/%E5%8C%97%E5%A4%96%E6%BB%A9/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>来吧，今年一起过年</title>
+    <link href="http://wardzhou.art/2020/12/19/Moments/"/>
+    <id>http://wardzhou.art/2020/12/19/Moments/</id>
+    <published>2020-12-18T17:07:55.000Z</published>
+    <updated>2020-12-19T07:58:25.875Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;夜深了，来唠个五毛钱的。</summary>
+    
+    
+    
+    
+    <category term="随笔" scheme="http://wardzhou.art/tags/%E9%9A%8F%E7%AC%94/"/>
+    
+  </entry>
   
   <entry>
     <title>平流层的汪洋</title>
@@ -465,48 +505,6 @@ Then you come with dim light</summary>
     <category term="设计" scheme="http://wardzhou.art/tags/%E8%AE%BE%E8%AE%A1/"/>
     
     <category term="Design" scheme="http://wardzhou.art/tags/Design/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>第二幕 雨</title>
-    <link href="http://wardzhou.art/2020/07/06/Rain/"/>
-    <id>http://wardzhou.art/2020/07/06/Rain/</id>
-    <published>2020-07-06T04:36:39.000Z</published>
-    <updated>2020-12-14T15:10:11.495Z</updated>
-    
-    
-    <summary type="html">&lt;p&gt;&lt;em&gt;急板&lt;/em&gt;&lt;/p&gt;</summary>
-    
-    
-    
-    <category term="诗" scheme="http://wardzhou.art/categories/%E8%AF%97/"/>
-    
-    
-    <category term="诗" scheme="http://wardzhou.art/tags/%E8%AF%97/"/>
-    
-    <category term="Paddy" scheme="http://wardzhou.art/tags/Paddy/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Act I Cloudless Day</title>
-    <link href="http://wardzhou.art/2020/07/06/CloudlessDay/"/>
-    <id>http://wardzhou.art/2020/07/06/CloudlessDay/</id>
-    <published>2020-07-05T16:41:11.000Z</published>
-    <updated>2020-12-14T15:10:11.492Z</updated>
-    
-    
-    <summary type="html">&lt;p&gt;&lt;em&gt;Andante&lt;/em&gt;&lt;/p&gt;</summary>
-    
-    
-    
-    <category term="诗" scheme="http://wardzhou.art/categories/%E8%AF%97/"/>
-    
-    
-    <category term="诗" scheme="http://wardzhou.art/tags/%E8%AF%97/"/>
-    
-    <category term="Paddy" scheme="http://wardzhou.art/tags/Paddy/"/>
     
   </entry>
   
