@@ -6,7 +6,7 @@
   <link href="http://wardzhou.art/atom.xml" rel="self"/>
   
   <link href="http://wardzhou.art/"/>
-  <updated>2021-02-15T05:06:51.641Z</updated>
+  <updated>2021-02-27T16:04:16.886Z</updated>
   <id>http://wardzhou.art/</id>
   
   <author>
@@ -15,6 +15,34 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Nginx Proxy Manager——小而美的多容器转发方案</title>
+    <link href="http://wardzhou.art/2021/02/27/NginXProxyManager/"/>
+    <id>http://wardzhou.art/2021/02/27/NginXProxyManager/</id>
+    <published>2021-02-27T15:57:17.000Z</published>
+    <updated>2021-02-27T16:04:16.886Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;距离上次把博客改用 docker 部署已经过去快半年了，旧的服务器性能有点过剩（ &lt;s&gt;续不起了&lt;/s&gt; ），所以另购置了台新的云主机，考虑到备案迁移的问题，我还是选择了同一家供应商，免除了再次申请备案信息更改的麻烦。&lt;/p&gt;
+&lt;p&gt;我之前的主机上跑了三个容器，一个是</summary>
+        
+      
+    
+    
+    
+    <category term="教程" scheme="http://wardzhou.art/categories/%E6%95%99%E7%A8%8B/"/>
+    
+    
+    <category term="Docker" scheme="http://wardzhou.art/tags/Docker/"/>
+    
+    <category term="Nginx" scheme="http://wardzhou.art/tags/Nginx/"/>
+    
+  </entry>
   
   <entry>
     <title>无风的夜</title>
@@ -502,29 +530,6 @@ Then you come with dim light</summary>
     <category term="猫" scheme="http://wardzhou.art/tags/%E7%8C%AB/"/>
     
     <category term="Cat" scheme="http://wardzhou.art/tags/Cat/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Delicacy</title>
-    <link href="http://wardzhou.art/2020/07/12/Delicacy/"/>
-    <id>http://wardzhou.art/2020/07/12/Delicacy/</id>
-    <published>2020-07-12T00:41:31.000Z</published>
-    <updated>2020-12-14T15:10:11.492Z</updated>
-    
-    
-    <summary type="html">&lt;p&gt;A Tango</summary>
-    
-    
-    
-    <category term="设计" scheme="http://wardzhou.art/categories/%E8%AE%BE%E8%AE%A1/"/>
-    
-    
-    <category term="设计" scheme="http://wardzhou.art/tags/%E8%AE%BE%E8%AE%A1/"/>
-    
-    <category term="Design" scheme="http://wardzhou.art/tags/Design/"/>
-    
-    <category term="Paddy" scheme="http://wardzhou.art/tags/Paddy/"/>
     
   </entry>
   
