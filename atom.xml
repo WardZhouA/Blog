@@ -6,7 +6,7 @@
   <link href="http://wardzhou.art/atom.xml" rel="self"/>
   
   <link href="http://wardzhou.art/"/>
-  <updated>2021-02-27T16:04:16.886Z</updated>
+  <updated>2021-03-03T10:05:11.158Z</updated>
   <id>http://wardzhou.art/</id>
   
   <author>
@@ -15,6 +15,31 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>西风</title>
+    <link href="http://wardzhou.art/2021/03/02/WestWind/"/>
+    <id>http://wardzhou.art/2021/03/02/WestWind/</id>
+    <published>2021-03-02T11:33:27.000Z</published>
+    <updated>2021-03-03T10:05:11.158Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;又一次</summary>
+        
+      
+    
+    
+    
+    <category term="诗" scheme="http://wardzhou.art/categories/%E8%AF%97/"/>
+    
+    
+    <category term="诗" scheme="http://wardzhou.art/tags/%E8%AF%97/"/>
+    
+  </entry>
   
   <entry>
     <title>Nginx Proxy Manager——小而美的多容器转发方案</title>
@@ -509,27 +534,6 @@ Then you come with dim light</summary>
     <category term="Paddy" scheme="http://wardzhou.art/tags/Paddy/"/>
     
     <category term="诗" scheme="http://wardzhou.art/tags/%E8%AF%97/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Cat!Cat!Cat!</title>
-    <link href="http://wardzhou.art/2020/07/12/CatCatCat/"/>
-    <id>http://wardzhou.art/2020/07/12/CatCatCat/</id>
-    <published>2020-07-12T14:50:36.000Z</published>
-    <updated>2020-12-14T15:10:11.492Z</updated>
-    
-    
-    <summary type="html">&lt;p&gt;Best of the Cat Photo I shot</summary>
-    
-    
-    
-    <category term="摄影" scheme="http://wardzhou.art/categories/%E6%91%84%E5%BD%B1/"/>
-    
-    
-    <category term="猫" scheme="http://wardzhou.art/tags/%E7%8C%AB/"/>
-    
-    <category term="Cat" scheme="http://wardzhou.art/tags/Cat/"/>
     
   </entry>
   
