@@ -6,7 +6,7 @@
   <link href="http://wardzhou.art/atom.xml" rel="self"/>
   
   <link href="http://wardzhou.art/"/>
-  <updated>2021-03-25T11:04:54.643Z</updated>
+  <updated>2021-04-22T09:55:45.617Z</updated>
   <id>http://wardzhou.art/</id>
   
   <author>
@@ -15,6 +15,42 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>新月</title>
+    <link href="http://wardzhou.art/2021/04/22/Crescent/"/>
+    <id>http://wardzhou.art/2021/04/22/Crescent/</id>
+    <published>2021-04-22T09:48:52.000Z</published>
+    <updated>2021-04-22T09:55:45.617Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;锐利的弦月&lt;br&gt;
+被薄云萦绕&lt;br&gt;
+冷峻的面庞平添了些&lt;br&gt;
+本不该有的柔情&lt;/p&gt;
+&lt;p&gt;他说：&lt;br&gt;
+明天就是新月&lt;br&gt;
+没有光&lt;br&gt;
+我们都不复存在&lt;/p&gt;
+&lt;p&gt;夜，没有答案的夜&lt;br&gt;
+还是一如既往的沉默&lt;/p&gt;
+&lt;p&gt;溪水在鹅卵石上拍打着&lt;br&gt;
+激</summary>
+        
+      
+    
+    
+    
+    <category term="诗" scheme="http://wardzhou.art/categories/%E8%AF%97/"/>
+    
+    
+    <category term="诗" scheme="http://wardzhou.art/tags/%E8%AF%97/"/>
+    
+  </entry>
   
   <entry>
     <title>雪松</title>
@@ -526,29 +562,6 @@ Then you come with dim light</summary>
     
     
     <category term="诗" scheme="http://wardzhou.art/tags/%E8%AF%97/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Door</title>
-    <link href="http://wardzhou.art/2020/08/01/Door/"/>
-    <id>http://wardzhou.art/2020/08/01/Door/</id>
-    <published>2020-07-31T16:14:52.000Z</published>
-    <updated>2020-12-14T15:10:11.492Z</updated>
-    
-    
-    <summary type="html">&lt;p&gt;&lt;em&gt;Angosciso&lt;/em&gt;</summary>
-    
-    
-    
-    <category term="设计" scheme="http://wardzhou.art/categories/%E8%AE%BE%E8%AE%A1/"/>
-    
-    
-    <category term="设计" scheme="http://wardzhou.art/tags/%E8%AE%BE%E8%AE%A1/"/>
-    
-    <category term="Design" scheme="http://wardzhou.art/tags/Design/"/>
-    
-    <category term="Paddy" scheme="http://wardzhou.art/tags/Paddy/"/>
     
   </entry>
   
