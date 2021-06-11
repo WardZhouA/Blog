@@ -6,7 +6,7 @@
   <link href="http://wardzhou.art/atom.xml" rel="self"/>
   
   <link href="http://wardzhou.art/"/>
-  <updated>2021-05-26T14:01:06.640Z</updated>
+  <updated>2021-06-11T08:57:42.886Z</updated>
   <id>http://wardzhou.art/</id>
   
   <author>
@@ -17,11 +17,44 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>Mr.Green</title>
+    <link href="http://wardzhou.art/2021/06/11/MrGreen/"/>
+    <id>http://wardzhou.art/2021/06/11/MrGreen/</id>
+    <published>2021-06-11T08:51:54.000Z</published>
+    <updated>2021-06-11T08:57:42.886Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;I had a dream&lt;br&gt;
+where the corduroy grew like grass.&lt;br&gt;
+The earth, dust and breeze&lt;br&gt;
+all came for me.&lt;/p&gt;
+&lt;p&gt;Then I fell and eyes</summary>
+        
+      
+    
+    
+    
+    <category term="Poem" scheme="http://wardzhou.art/categories/Poem/"/>
+    
+    <category term="诗" scheme="http://wardzhou.art/categories/Poem/%E8%AF%97/"/>
+    
+    
+    <category term="诗" scheme="http://wardzhou.art/tags/%E8%AF%97/"/>
+    
+    <category term="Poem" scheme="http://wardzhou.art/tags/Poem/"/>
+    
+  </entry>
+  
+  <entry>
     <title>藏匿于人海中的杂音——精神分裂者数描</title>
     <link href="http://wardzhou.art/2021/05/18/Schizophrenia/"/>
     <id>http://wardzhou.art/2021/05/18/Schizophrenia/</id>
     <published>2021-05-18T09:50:49.000Z</published>
-    <updated>2021-05-26T14:01:06.640Z</updated>
+    <updated>2021-05-26T14:27:03.123Z</updated>
     
     
       
@@ -533,31 +566,6 @@ Then you come with dim light</summary>
     
     
     <category term="科技文章" scheme="http://wardzhou.art/tags/%E7%A7%91%E6%8A%80%E6%96%87%E7%AB%A0/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Retrospection</title>
-    <link href="http://wardzhou.art/2020/08/14/Retrospection/"/>
-    <id>http://wardzhou.art/2020/08/14/Retrospection/</id>
-    <published>2020-08-13T16:02:49.000Z</published>
-    <updated>2020-12-14T15:10:11.495Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;p&gt;It is the day when &lt;em&gt;Agent of SHIELD&lt;/em&gt; came to an end. Suddenly it came to me that it has been 7 years since the first episode. And</summary>
-        
-      
-    
-    
-    
-    <category term="随笔" scheme="http://wardzhou.art/categories/%E9%9A%8F%E7%AC%94/"/>
-    
-    
-    <category term="随笔" scheme="http://wardzhou.art/tags/%E9%9A%8F%E7%AC%94/"/>
     
   </entry>
   
