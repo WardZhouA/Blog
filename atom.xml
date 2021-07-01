@@ -6,7 +6,7 @@
   <link href="http://wardzhou.art/atom.xml" rel="self"/>
   
   <link href="http://wardzhou.art/"/>
-  <updated>2021-06-11T08:57:42.886Z</updated>
+  <updated>2021-07-01T09:49:49.760Z</updated>
   <id>http://wardzhou.art/</id>
   
   <author>
@@ -17,11 +17,38 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>Time, A Friend</title>
+    <link href="http://wardzhou.art/2021/07/01/TimeAFriend/"/>
+    <id>http://wardzhou.art/2021/07/01/TimeAFriend/</id>
+    <published>2021-07-01T07:30:44.000Z</published>
+    <updated>2021-07-01T09:49:49.760Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;iframe allow=&quot;autoplay *; encrypted-media *; fullscreen *&quot; frameborder=&quot;0&quot; height=&quot;150&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="诗" scheme="http://wardzhou.art/categories/%E8%AF%97/"/>
+    
+    
+    <category term="诗" scheme="http://wardzhou.art/tags/%E8%AF%97/"/>
+    
+    <category term="日志" scheme="http://wardzhou.art/tags/%E6%97%A5%E5%BF%97/"/>
+    
+  </entry>
+  
+  <entry>
     <title>Mr.Green</title>
     <link href="http://wardzhou.art/2021/06/11/MrGreen/"/>
     <id>http://wardzhou.art/2021/06/11/MrGreen/</id>
     <published>2021-06-11T08:51:54.000Z</published>
-    <updated>2021-06-11T08:57:42.886Z</updated>
+    <updated>2021-07-01T09:47:44.423Z</updated>
     
     
       
@@ -38,9 +65,7 @@ all came for me.&lt;/p&gt;
     
     
     
-    <category term="Poem" scheme="http://wardzhou.art/categories/Poem/"/>
-    
-    <category term="诗" scheme="http://wardzhou.art/categories/Poem/%E8%AF%97/"/>
+    <category term="诗" scheme="http://wardzhou.art/categories/%E8%AF%97/"/>
     
     
     <category term="诗" scheme="http://wardzhou.art/tags/%E8%AF%97/"/>
@@ -540,32 +565,6 @@ Then you come with dim light</summary>
     <category term="设计" scheme="http://wardzhou.art/tags/%E8%AE%BE%E8%AE%A1/"/>
     
     <category term="Design" scheme="http://wardzhou.art/tags/Design/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>微软 Surface Earbuds 耳机冰川白使用报告</title>
-    <link href="http://wardzhou.art/2020/08/18/SurfaceEarbuds/"/>
-    <id>http://wardzhou.art/2020/08/18/SurfaceEarbuds/</id>
-    <published>2020-08-18T08:35:00.000Z</published>
-    <updated>2021-03-03T10:20:16.924Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;p&gt;小编近期因工作需要，购置了微软的 Surface Earbuds，现已使用两周。本文将从其外观、佩戴、操控、音质、续航等角度进行简评，希望能够对正在观望该产品的家友带来帮助。&lt;/p&gt;
-&lt;h2</summary>
-        
-      
-    
-    
-    
-    <category term="科技文章" scheme="http://wardzhou.art/categories/%E7%A7%91%E6%8A%80%E6%96%87%E7%AB%A0/"/>
-    
-    
-    <category term="科技文章" scheme="http://wardzhou.art/tags/%E7%A7%91%E6%8A%80%E6%96%87%E7%AB%A0/"/>
     
   </entry>
   
