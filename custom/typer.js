@@ -1,6 +1,6 @@
 //window.onload = function ()  
 setTimeout(function() {
-    var $typeContent = $("[class='φda']");
+    var $typeContent = $("[class='φcy']");
     $typeContent.append('<span id="typer"></span>');
     $typeContent.attr("style", "height:2.83rem; display:block;");
     var options = {
