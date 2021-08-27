@@ -6,7 +6,7 @@
   <link href="http://wardzhou.art/atom.xml" rel="self"/>
   
   <link href="http://wardzhou.art/"/>
-  <updated>2021-08-09T02:23:57.675Z</updated>
+  <updated>2021-08-27T14:28:07.287Z</updated>
   <id>http://wardzhou.art/</id>
   
   <author>
@@ -15,6 +15,36 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Rhyme in Story</title>
+    <link href="http://wardzhou.art/2021/08/27/RhymeInStory/"/>
+    <id>http://wardzhou.art/2021/08/27/RhymeInStory/</id>
+    <published>2021-08-27T14:13:29.000Z</published>
+    <updated>2021-08-27T14:28:07.287Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;The train runs in rhyme,&lt;br&gt;
+through all the joint of the rails.&lt;br&gt;
+Here echoes every beat.&lt;/p&gt;
+&lt;p&gt;The story lies in</summary>
+        
+      
+    
+    
+    
+    <category term="诗" scheme="http://wardzhou.art/categories/%E8%AF%97/"/>
+    
+    
+    <category term="诗" scheme="http://wardzhou.art/tags/%E8%AF%97/"/>
+    
+    <category term="Poem" scheme="http://wardzhou.art/tags/Poem/"/>
+    
+  </entry>
   
   <entry>
     <title>回首</title>
@@ -85,7 +115,7 @@
     <link href="http://wardzhou.art/2021/08/09/UnreliableTeller/"/>
     <id>http://wardzhou.art/2021/08/09/UnreliableTeller/</id>
     <published>2021-08-08T16:12:00.000Z</published>
-    <updated>2021-08-08T17:40:46.983Z</updated>
+    <updated>2021-08-09T10:11:54.392Z</updated>
     
     
       
@@ -572,31 +602,6 @@ remains</summary>
     
     
     <category term="诗" scheme="http://wardzhou.art/tags/%E8%AF%97/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Tuuuuuuber是真的吗？</title>
-    <link href="http://wardzhou.art/2020/10/09/FCTuber/"/>
-    <id>http://wardzhou.art/2020/10/09/FCTuber/</id>
-    <published>2020-10-09T13:17:37.000Z</published>
-    <updated>2020-12-14T15:10:11.493Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;is-cipher</summary>
-        
-      
-    
-    
-    
-    <category term="事实核查" scheme="http://wardzhou.art/categories/%E4%BA%8B%E5%AE%9E%E6%A0%B8%E6%9F%A5/"/>
-    
-    
-    <category term="事实核查" scheme="http://wardzhou.art/tags/%E4%BA%8B%E5%AE%9E%E6%A0%B8%E6%9F%A5/"/>
     
   </entry>
   
