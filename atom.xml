@@ -6,7 +6,7 @@
   <link href="http://wardzhou.art/atom.xml" rel="self"/>
   
   <link href="http://wardzhou.art/"/>
-  <updated>2021-10-18T08:49:11.233Z</updated>
+  <updated>2021-11-27T12:49:30.324Z</updated>
   <id>http://wardzhou.art/</id>
   
   <author>
@@ -15,6 +15,31 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>23岁的新传人：反卷、叛逆、创造价值</title>
+    <link href="http://wardzhou.art/2021/11/28/TalkBy23thBirthday/"/>
+    <id>http://wardzhou.art/2021/11/28/TalkBy23thBirthday/</id>
+    <published>2021-11-27T16:00:00.000Z</published>
+    <updated>2021-11-27T12:49:30.324Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;一向对数字不敏感的我，甚至时常记不起自己的年纪。之前与编辑室的老师们聊天的时候，才发现自己马上就要23岁了。头脑中这个概念一闪而过：“哦，是23岁，不是22岁。”但我看不出这数字背后有什么意义，就像是简单的一句 &lt;code&gt;age++;&lt;/code&gt;</summary>
+        
+      
+    
+    
+    
+    <category term="随笔" scheme="http://wardzhou.art/categories/%E9%9A%8F%E7%AC%94/"/>
+    
+    
+    <category term="随笔" scheme="http://wardzhou.art/tags/%E9%9A%8F%E7%AC%94/"/>
+    
+  </entry>
   
   <entry>
     <title>Glimpse</title>
@@ -64,9 +89,9 @@
     <category term="随笔" scheme="http://wardzhou.art/categories/%E9%9A%8F%E7%AC%94/"/>
     
     
-    <category term="随笔" scheme="http://wardzhou.art/tags/%E9%9A%8F%E7%AC%94/"/>
-    
     <category term="科技文章" scheme="http://wardzhou.art/tags/%E7%A7%91%E6%8A%80%E6%96%87%E7%AB%A0/"/>
+    
+    <category term="随笔" scheme="http://wardzhou.art/tags/%E9%9A%8F%E7%AC%94/"/>
     
   </entry>
   
@@ -570,26 +595,6 @@ A desert should have spring&lt;/p&gt;
     
     
     <category term="短篇" scheme="http://wardzhou.art/tags/%E7%9F%AD%E7%AF%87/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>平流层的汪洋</title>
-    <link href="http://wardzhou.art/2020/11/29/OceanicStratosphere/"/>
-    <id>http://wardzhou.art/2020/11/29/OceanicStratosphere/</id>
-    <published>2020-11-28T17:45:59.000Z</published>
-    <updated>2020-12-14T15:10:11.493Z</updated>
-    
-    
-    <summary type="html">&lt;p&gt;平流层的汪洋&lt;br&gt;
-四方而行</summary>
-    
-    
-    
-    <category term="诗" scheme="http://wardzhou.art/categories/%E8%AF%97/"/>
-    
-    
-    <category term="诗" scheme="http://wardzhou.art/tags/%E8%AF%97/"/>
     
   </entry>
   
