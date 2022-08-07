@@ -6,7 +6,7 @@
   <link href="http://wardzhou.art/atom.xml" rel="self"/>
   
   <link href="http://wardzhou.art/"/>
-  <updated>2022-02-27T14:16:00.918Z</updated>
+  <updated>2022-08-07T04:03:36.432Z</updated>
   <id>http://wardzhou.art/</id>
   
   <author>
@@ -15,6 +15,36 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Hue</title>
+    <link href="http://wardzhou.art/2022/08/07/Hue/"/>
+    <id>http://wardzhou.art/2022/08/07/Hue/</id>
+    <published>2022-08-07T03:42:17.000Z</published>
+    <updated>2022-08-07T04:03:36.432Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;There’re roamers on the hue.&lt;br&gt;
+One stands with calm,&lt;br&gt;
+While the other lights up the warm.&lt;/p&gt;
+&lt;p&gt;contrast forms</summary>
+        
+      
+    
+    
+    
+    <category term="诗" scheme="http://wardzhou.art/categories/%E8%AF%97/"/>
+    
+    
+    <category term="诗" scheme="http://wardzhou.art/tags/%E8%AF%97/"/>
+    
+    <category term="Poem" scheme="http://wardzhou.art/tags/Poem/"/>
+    
+  </entry>
   
   <entry>
     <title>麦</title>
@@ -195,9 +225,9 @@
     <category term="随笔" scheme="http://wardzhou.art/categories/%E9%9A%8F%E7%AC%94/"/>
     
     
-    <category term="随笔" scheme="http://wardzhou.art/tags/%E9%9A%8F%E7%AC%94/"/>
-    
     <category term="科技文章" scheme="http://wardzhou.art/tags/%E7%A7%91%E6%8A%80%E6%96%87%E7%AB%A0/"/>
+    
+    <category term="随笔" scheme="http://wardzhou.art/tags/%E9%9A%8F%E7%AC%94/"/>
     
   </entry>
   
@@ -586,34 +616,6 @@ A desert should have spring&lt;/p&gt;
     
     
     <category term="诗" scheme="http://wardzhou.art/tags/%E8%AF%97/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Nginx Proxy Manager——小而美的多容器转发方案</title>
-    <link href="http://wardzhou.art/2021/02/27/NginXProxyManager/"/>
-    <id>http://wardzhou.art/2021/02/27/NginXProxyManager/</id>
-    <published>2021-02-27T15:57:17.000Z</published>
-    <updated>2021-02-27T16:04:16.886Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;p&gt;距离上次把博客改用 docker 部署已经过去快半年了，旧的服务器性能有点过剩（ &lt;s&gt;续不起了&lt;/s&gt; ），所以另购置了台新的云主机，考虑到备案迁移的问题，我还是选择了同一家供应商，免除了再次申请备案信息更改的麻烦。&lt;/p&gt;
-&lt;p&gt;我之前的主机上跑了三个容器，一个是</summary>
-        
-      
-    
-    
-    
-    <category term="教程" scheme="http://wardzhou.art/categories/%E6%95%99%E7%A8%8B/"/>
-    
-    
-    <category term="Docker" scheme="http://wardzhou.art/tags/Docker/"/>
-    
-    <category term="Nginx" scheme="http://wardzhou.art/tags/Nginx/"/>
     
   </entry>
   
