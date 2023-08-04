@@ -6,7 +6,7 @@
   <link href="http://wardzhou.art/atom.xml" rel="self"/>
   
   <link href="http://wardzhou.art/"/>
-  <updated>2022-12-02T08:01:13.697Z</updated>
+  <updated>2023-08-04T12:17:51.716Z</updated>
   <id>http://wardzhou.art/</id>
   
   <author>
@@ -15,6 +15,37 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>借助云主机，在外也能访问家中的Home Assistant</title>
+    <link href="http://wardzhou.art/2023/08/03/ha-frp/"/>
+    <id>http://wardzhou.art/2023/08/03/ha-frp/</id>
+    <published>2023-08-02T17:35:55.000Z</published>
+    <updated>2023-08-04T12:17:51.716Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;Home Assistant</summary>
+        
+      
+    
+    
+    
+    <category term="教程" scheme="http://wardzhou.art/categories/%E6%95%99%E7%A8%8B/"/>
+    
+    
+    <category term="Linux" scheme="http://wardzhou.art/tags/Linux/"/>
+    
+    <category term="Nginx" scheme="http://wardzhou.art/tags/Nginx/"/>
+    
+    <category term="HomeAssistant" scheme="http://wardzhou.art/tags/HomeAssistant/"/>
+    
+    <category term="SmartHome" scheme="http://wardzhou.art/tags/SmartHome/"/>
+    
+  </entry>
   
   <entry>
     <title>24岁，我想离真相再近一些</title>
@@ -582,34 +613,6 @@ all came for me.&lt;/p&gt;
 树心层层&lt;br&gt;
 春天，见不得&lt;br&gt;
 风去叶</summary>
-        
-      
-    
-    
-    
-    <category term="诗" scheme="http://wardzhou.art/categories/%E8%AF%97/"/>
-    
-    
-    <category term="诗" scheme="http://wardzhou.art/tags/%E8%AF%97/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>7PM</title>
-    <link href="http://wardzhou.art/2021/03/16/7PM/"/>
-    <id>http://wardzhou.art/2021/03/16/7PM/</id>
-    <published>2021-03-16T09:50:00.000Z</published>
-    <updated>2021-03-16T15:22:55.310Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;p&gt;Sunset melts in sands&lt;br&gt;
-Grass grows sharply and firmly&lt;br&gt;
-A desert should have spring&lt;/p&gt;
-&lt;p&gt;Through the filter,  it all</summary>
         
       
     
