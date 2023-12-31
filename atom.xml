@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>白桦 Birch</title>
+  <title>Birch&#39;s Blog</title>
   <icon>http://wardzhou.art/img/icon-194x194.png</icon>
-  <subtitle>所见即所想，所写亦所得</subtitle>
+  
   <link href="http://wardzhou.art/atom.xml" rel="self"/>
   
   <link href="http://wardzhou.art/"/>
@@ -10,7 +10,7 @@
   <id>http://wardzhou.art/</id>
   
   <author>
-    <name>白桦 Birch</name>
+    <name>Birch</name>
     
   </author>
   
