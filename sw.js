@@ -4,7 +4,7 @@ workbox.setConfig({ modulePathPrefix: 'https://g.alicdn.com/kg/workbox/3.3.0/' }
 self.addEventListener('install', function (event) {
   event.waitUntil(
     caches.keys().then(function (names) {
-      var validSets = ["is-sw-e7b0f3","is-html-e7b0f3","is-jsdelivr-e7b0f3","is-gtm-e7b0f3","is-gravatar-e7b0f3","is-theme-e7b0f3","is-cdn-e7b0f3","is-json-e7b0f3","is-custom-e7b0f3","is-img-e7b0f3"];
+      var validSets = ["is-sw-e0b4ae","is-html-e0b4ae","is-jsdelivr-e0b4ae","is-gtm-e0b4ae","is-gravatar-e0b4ae","is-theme-e0b4ae","is-cdn-e0b4ae","is-json-e0b4ae","is-custom-e0b4ae","is-img-e0b4ae"];
       return Promise.all(
         names
           .filter(function (name) { return !~validSets.indexOf(name); })
@@ -18,38 +18,38 @@ self.addEventListener('install', function (event) {
 });
 
 workbox.routing.registerRoute(new RegExp('sw\\.js'), workbox.strategies.networkOnly({
-  cacheName: 'is-sw-e7b0f3',
+  cacheName: 'is-sw-e0b4ae',
 }));
 workbox.routing.registerRoute(new RegExp('https://cdn\\.jsdelivr\\.net'), workbox.strategies.staleWhileRevalidate({
-  cacheName: 'is-jsdelivr-e7b0f3',
+  cacheName: 'is-jsdelivr-e0b4ae',
   plugins: [ new workbox.expiration.Plugin({ maxAgeSeconds: 14400 }) ],
 }));
 workbox.routing.registerRoute(new RegExp('https://www\\.googletagmanager\\.com\?id=.*'), workbox.strategies.staleWhileRevalidate({
-  cacheName: 'is-gtm-e7b0f3',
+  cacheName: 'is-gtm-e0b4ae',
   plugins: [ new workbox.expiration.Plugin({ maxAgeSeconds: 14400 }) ],
 }));
 workbox.routing.registerRoute(new RegExp('https://www\\.gravatar\\.com'), workbox.strategies.staleWhileRevalidate({
-  cacheName: 'is-gravatar-e7b0f3',
+  cacheName: 'is-gravatar-e0b4ae',
   plugins: [ new workbox.expiration.Plugin({ maxAgeSeconds: 14400 }) ],
 }));
 workbox.routing.registerRoute(new RegExp('/.*\\.(?:js|css|woff2|png|jpg|gif)$'), workbox.strategies.staleWhileRevalidate({
-  cacheName: 'is-theme-e7b0f3',
+  cacheName: 'is-theme-e0b4ae',
   plugins: [ new workbox.expiration.Plugin({ maxAgeSeconds: 14400 }) ],
 }));
 workbox.routing.registerRoute(new RegExp('https://cdn\\.wardzhou\\.art'), workbox.strategies.staleWhileRevalidate({
-  cacheName: 'is-cdn-e7b0f3',
+  cacheName: 'is-cdn-e0b4ae',
   plugins: [ new workbox.expiration.Plugin({ maxAgeSeconds: 14400 }) ],
 }));
 workbox.routing.registerRoute(new RegExp('your_data_prefix/.*\\.json'), workbox.strategies.cacheFirst({
-  cacheName: 'is-json-e7b0f3',
+  cacheName: 'is-json-e0b4ae',
   plugins: [ new workbox.expiration.Plugin({ maxAgeSeconds: 14400 }) ],
 }));
 workbox.routing.registerRoute(new RegExp('/custom/.*'), workbox.strategies.staleWhileRevalidate({
-  cacheName: 'is-custom-e7b0f3',
+  cacheName: 'is-custom-e0b4ae',
   plugins: [ new workbox.expiration.Plugin({ maxAgeSeconds: 14400 }) ],
 }));
 workbox.routing.registerRoute(new RegExp('/img/.*'), workbox.strategies.staleWhileRevalidate({
-  cacheName: 'is-img-e7b0f3',
+  cacheName: 'is-img-e0b4ae',
   plugins: [ new workbox.expiration.Plugin({ maxAgeSeconds: 14400 }) ],
 }));
 
