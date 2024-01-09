@@ -3,3 +3,5 @@ Disallow: /resume/
 Disallow: /resume/index.html
 Disallow: /tiaotiao/
 Disallow: /tiaotiao/index.html
+Disallow: /resumeZh/
+Disallow: /resumeZh/index.html
