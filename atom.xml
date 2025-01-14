@@ -6,7 +6,7 @@
   <link href="http://wardzhou.art/atom.xml" rel="self"/>
   
   <link href="http://wardzhou.art/"/>
-  <updated>2023-12-31T15:30:37.104Z</updated>
+  <updated>2024-09-29T09:11:07.391Z</updated>
   <id>http://wardzhou.art/</id>
   
   <author>
@@ -15,6 +15,19 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>this is a post</title>
+    <link href="http://wardzhou.art/2024/09/29/this-is-a-post/"/>
+    <id>http://wardzhou.art/2024/09/29/this-is-a-post/</id>
+    <published>2024-09-29T09:09:24.000Z</published>
+    <updated>2024-09-29T09:11:07.391Z</updated>
+    
+    
+    
+    
+    
+  </entry>
   
   <entry>
     <title>IKEA memories of 2023</title>
@@ -581,36 +594,6 @@ all came for me.&lt;/p&gt;
     <category term="诗" scheme="http://wardzhou.art/tags/%E8%AF%97/"/>
     
     <category term="Poem" scheme="http://wardzhou.art/tags/Poem/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>藏匿于人海中的杂音——精神分裂者数描</title>
-    <link href="http://wardzhou.art/2021/05/18/Schizophrenia/"/>
-    <id>http://wardzhou.art/2021/05/18/Schizophrenia/</id>
-    <published>2021-05-18T09:50:49.000Z</published>
-    <updated>2021-05-26T14:27:03.123Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;blockquote&gt;
-&lt;p&gt;精神分裂，在新闻报道中，常以负面的形象出现，他们匿于茫茫人海，像是主旋律之外的“杂音”。这是一种怎样的疾病？而这些患者的生活面貌又是怎样的？&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;h2 id=&quot;人海中的-0.3%-不是水滴，而是湖泊&quot;&gt;人海中的</summary>
-        
-      
-    
-    
-    
-    <category term="数据新闻" scheme="http://wardzhou.art/categories/%E6%95%B0%E6%8D%AE%E6%96%B0%E9%97%BB/"/>
-    
-    
-    <category term="数据新闻" scheme="http://wardzhou.art/tags/%E6%95%B0%E6%8D%AE%E6%96%B0%E9%97%BB/"/>
-    
-    <category term="数据可视化" scheme="http://wardzhou.art/tags/%E6%95%B0%E6%8D%AE%E5%8F%AF%E8%A7%86%E5%8C%96/"/>
     
   </entry>
   
